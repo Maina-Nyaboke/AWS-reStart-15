@@ -22,3 +22,12 @@ As part of my AWS re/Start journey, this lab demonstrates how to securely connec
   ```bash
   chmod 400 labsuser.pem
 
+### Visual Proof of Deployment
+![AWS Linux Terminal Connection](C:\Users\USER\Documents\aws-restart-portfolio\images\terminalproof.png)
+
+### Interaction with Linux Manual pages
+![AWS Linux Terminal Connection](C:\Users\USER\Documents\aws-restart-portfolio\images\manpage.png)
+
+
+
+
