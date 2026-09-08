@@ -6,7 +6,7 @@ Welcome to my cloud computing and engineering showcase! This repository document
 
 ### 📁 Module 1: Cloud Foundations
 *Status: Completed*
-* [1 - Cloud Foundations Folder](./1%20-%20Cloud%20Foundations/) — Core concepts of cloud elasticity, virtualization, and fundamental AWS service architectures.
+* [1 - Cloud Foundations](./1%20-%20Cloud%20Foundations/) — Core concepts of cloud elasticity, virtualization, and fundamental AWS service architectures.
 
 ### 📁 Module 2: Linux Administration & Shell Environments
 *Status: Active Focus*
