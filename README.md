@@ -1,33 +1,17 @@
-# AWS Cloud Lab: Introduction to Amazon Linux AMI & CLI Basics
+# AWS re/Start Program — Cloud & DevOps Portfolio
 
-## 📌 Project Overview
-As part of my AWS re/Start journey, this lab demonstrates how to securely connect to a remote cloud server using industry-standard tools and navigate the Linux command-line environment. 
+Welcome to my cloud computing and engineering showcase! This repository documents my hands-on technical labs, practical architectures, and configuration workflows completed during the AWS re/Start program.
 
-## 🛠️ Tools Used
-- **Cloud Provider:** Amazon Web Services (AWS)
-- **Compute:** Amazon EC2 (t3.micro running Amazon Linux AMI)
-- **Terminal Client:** Git Bash 
-- **Operating System:** Linux 
+## 🗂️ Program Curriculum & Modules
 
-## 🚀 Step-by-Step Implementation
+### 📁 Module 1: Cloud Foundations
+*Status: Completed*
+* [1 - Cloud Foundations Folder](./1%20-%20Cloud%20Foundations/) — Core concepts of cloud elasticity, virtualization, and fundamental AWS service architectures.
 
-### 1. Preparing Security Credentials
-- Initiated the AWS lab sandbox environment in Vocareum.
-- Downloaded the private key pair file (`labsuser.pem`).
-- Retrieved the public IPv4 address of the EC2 Command Host.
+### 📁 Module 2: Linux Administration & Shell Environments
+*Status: Active Focus*
+* 🐧 [2.1 Introduction to Linux](./2%20-%20Linux/2.1%20Introduction%20to%20Linux/) — Foundational operating system mechanics, secure OpenSSH connections (`chmod 400`), and navigating the manual help pages.
+* 🚀 [2.2 Next Lab Topic](./2%20-%20Linux/2.2%20Next/) — *[Pending Update]*
 
-### 2. Establishing the Secure SSH Connection via Git Bash
-- Navigated to the folder holding the key pair.
-- Restricted private key permissions to prevent exposure:
-  ```bash
-  chmod 400 labsuser.pem
-
-### Visual Proof of Deployment
-![AWS Linux Terminal Connection](images/terminalproof.png)
-
-### Interaction with Linux Manual pages
-![AWS Linux Terminal Connection](images/manpage.png)
-
-
-
-
+---
+*Maintained by Maina Nyaboke • Aspiring AWS Cloud Professional*
