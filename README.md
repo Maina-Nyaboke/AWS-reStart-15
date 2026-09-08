@@ -11,7 +11,7 @@ Welcome to my cloud computing and engineering showcase! This repository document
 ### 📁 Module 2: Linux Administration & Shell Environments
 *Status: Active Focus*
 * 🐧 [2.1 Introduction to Linux](./2%20-%20Linux/2.1%20Introduction%20to%20Linux/) — Foundational operating system mechanics, secure OpenSSH connections (`chmod 400`), and navigating the manual help pages.
-* 🚀 [2.2 Linux Command Line](./2%20-%20Linux/2.2%20Next/) — Running environmental variables (`TZ`), examining system telemetry logs, and utilizing terminal shortcut parameters (`!!`, `Ctrl+R`).
+* 🚀 [2.2 Linux Command Line](./2%20-%20Linux/2.2%20Linux%20Command%20Line/) — Running environmental variables (`TZ`), examining system telemetry logs, and utilizing terminal shortcut parameters (`!!`, `Ctrl+R`).
 
 
 ---
