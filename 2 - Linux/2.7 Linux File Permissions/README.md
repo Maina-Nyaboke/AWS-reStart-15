@@ -31,10 +31,10 @@ Practiced adjusting file manipulation privileges using alternative modification 
 ## 📸 Architectural Proof of Work
 
 ### System and Folder Ownership Realignment
-![Ownership Verification](./2%20-%20Linux/2.7%20Linux%20File%20Permissions/linux_chown_ownership.png)
+![Ownership Verification](linux_chown_ownership.png)
 
 ### Symbolic vs Octal Permission Configurations Verification
-![Chmod Mode Execution Matrix](./2%20-%20Linux/2.7%20Linux%20File%20Permissions/linux_chmod_modes.png)
+![Chmod Mode Execution Matrix](linux_chmod_modes.png)
 
 ### Functional Group Permission Assignment Audits
-![Assigned Roles Validation](./2%20-%20Linux/2.7%20Linux%20File%20Permissions/linux_assigned_permissions.png)
+![Assigned Roles Validation](linux_assigned_permissions.png)
