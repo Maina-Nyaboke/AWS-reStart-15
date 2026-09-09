@@ -24,6 +24,8 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 📜 [2.12 Bash Shell Scripting](./2%20-%20Linux/2.12%20Bash%20Shell%20Scripting/) — Writing standalone automation tools, configuring variable evaluations (`TIMESTAMP`), and orchestrating dynamically-named backup schedules.
 
 * 📦 [2.13 Software Management](./2%20-%20Linux/2.13%20Software%20Management/) — Managing package lifecycles and security updates via `yum`, executing state modifications and rollbacks (`yum history undo`), and deploying/configuring the programmatic AWS CLI V2 automation client engine.
+* 📊 [2.14 Linux Log Files](./2%20-%20Linux/2.14%20Linux%20Log%20Files/) — Parsing authentication histories via `less` log processing, tracking unauthorized system escalation fingerprints, and mapping user session footprints (`lastlog`).
+
 
 
 
