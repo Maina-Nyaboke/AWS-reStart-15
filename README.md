@@ -21,6 +21,8 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🤖 [2.9 Linux Processes](./2%20-%20Linux/2.9%20Linux%20Processes/) — Inspecting operational execution pipelines (`ps -aux`), monitoring computing performance metrics (`top`), and constructing recurring task automation routines (`cron`).
 * 🖥️ [2.10 Managing Services and Monitoring](./2%20-%20Linux/2.10%20Managing%20Services%20and%20Monitoring/) — Launching applications via system infrastructure controllers (`systemctl`), injecting system benchmark testing scripts, and auditing server health via **AWS CloudWatch** telemetry dashboards.
 * 🐚 [2.11 Bash Shell](./2%20-%20Linux/2.11%20Bash%20Shell/) — Developing custom command line shortcodes (`alias`), tracking operational environment lookups (`echo $PATH`), and configuring system executable pathways for cloud automation utilities.
+* 📜 [2.12 Bash Shell Scripting](./2%20-%20Linux/2.12%20Bash%20Shell%20Scripting/) — Writing standalone automation tools, configuring variable evaluations (`TIMESTAMP`), and orchestrating dynamically-named backup schedules.
+
 
 
 
