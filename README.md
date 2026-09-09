@@ -19,6 +19,9 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🔐 [2.7 Linux File Permissions](./2%20-%20Linux/2.7%20Linux%20File%20Permissions/) — Securing system layers with user ownership parameters (`chown -R`), enforcing structural permission bitmasks (`chmod`) via symbolic/absolute octal notation models (`764`), and auditing security access control metrics.
 * ⚙️ [2.8 Linux Commands](./2%20-%20Linux/2.8%20Linux%20Commands/) — Orchestrating advanced data stream redirection utilities via `tee`, establishing sorting filters (`sort`) and log queries (`grep`), and executing inline database data parsing (`cut`, `sed`).
 * 🤖 [2.9 Linux Processes](./2%20-%20Linux/2.9%20Linux%20Processes/) — Inspecting operational execution pipelines (`ps -aux`), monitoring computing performance metrics (`top`), and constructing recurring task automation routines (`cron`).
+* 🖥️ [2.10 Managing Services and Monitoring](./2%20-%20Linux/2.10%20Managing%20Services%20and%20Monitoring/) — Launching applications via system infrastructure controllers (`systemctl`), injecting system benchmark testing scripts, and auditing server health via **AWS CloudWatch** telemetry dashboards.
+
+
 
 
 
