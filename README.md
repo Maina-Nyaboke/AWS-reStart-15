@@ -36,6 +36,7 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🌐 [3.1 & 3.2](./3 - Networking/3.1 & 3.2/) — Core Networking Theory: Analyzing CIDR block allocations, subnet masking computations, and alignment to the 7-Layer OSI model.
 * 🛠️ [3.3 Internet Protocol](./3%20-%20Networking/3.3%20Internet%20Protocol/) — Understanding Public vs Private IP Behavior: Diagnosing internet connectivity boundaries and observing successful vs timed-out inbound OpenSSH handshake logs.
 * 🏗️ [3.4 Networking in AWS Cloud](./3%20-%20Networking/3.4%20Networking%20in%20AWS%20Cloud/) — Designing custom Amazon VPC boundaries from scratch, calculating classless allocation scales (CIDR) under RFC 1918 frameworks, and carving out variable-length public subnets.
+* 📊 [3.5 IP Subnetting](./3%20-%20Networking/3.5%20IP%20Subnetting/) — Triage and troubleshooting of networking infrastructure by mapping diagnostic shell commands (`ping`, `traceroute`, `netstat`, `telnet`, `curl`) directly across the structural layers of the 7-Layer OSI model.
 
 
 
