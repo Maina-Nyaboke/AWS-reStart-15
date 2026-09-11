@@ -26,7 +26,7 @@ This capstone challenge lab combines multiple core Linux systems engineering con
 ## 📸 Technical Verification Proofs
 
 ### Initial Batch Automation Run (Files 1 - 25 Allocation Verification)
-![First Batch Generation](challenge_run_1.png)
+![First Batch Generation](./challenge_run_1.png)
 
 ### Consecutive Batch Execution Check (Intelligent State Evaluation & Files 26 - 50 Allocation)
-![Second Batch Generation](challenge_run_2.png)
+![Second Batch Generation](./challenge_run_2.png)

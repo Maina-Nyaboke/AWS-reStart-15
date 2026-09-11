@@ -30,7 +30,7 @@ This lab covers the essential mechanics of monitoring system authentication foot
 ## 📸 Technical Verification Proofs
 
 ### Security Log Ingestion and Authentication Event Analysis
-![Secure Logs](linux_secure_logs.png)
+![Secure Logs](./linux_secure_logs.png)
 
 ### Global Account Entry Timelines Audit Report
-![Lastlog Audit](linux_lastlog_audit.png)
+![Lastlog Audit](./linux_lastlog_audit.png)

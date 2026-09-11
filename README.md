@@ -9,7 +9,7 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * [1 - Cloud Foundations Folder](./1%20-%20Cloud%20Foundations/) — Complete architectural reference guide tracking computing concepts, agile roles, cloud economy advantages, global infrastructure regions/AZ topology layout, and foundational storage/compute layers (S3/EC2).
 
 
-### 📁 Module 2: Linux Administration & Shell Environments
+### 📁 Module 2: Linux
 *Status: Completed*
 * 🐧 [2.1 Introduction to Linux](./2%20-%20Linux/2.1%20Introduction%20to%20Linux/) — Foundational operating system mechanics, secure OpenSSH connections (`chmod 400`), and navigating the manual help pages.
 * 🚀 [2.2 Linux Command Line](./2%20-%20Linux/2.2%20Linux%20Command%20Line/) — Running environmental variables (`TZ`), examining system telemetry logs, and utilizing terminal shortcut parameters (`!!`, `Ctrl+R`).
@@ -27,6 +27,19 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 📦 [2.13 Software Management](./2%20-%20Linux/2.13%20Software%20Management/) — Managing package lifecycles and security updates via `yum`, executing state modifications and rollbacks (`yum history undo`), and deploying/configuring the programmatic AWS CLI V2 automation client engine.
 * 📊 [2.14 Linux Log Files](./2%20-%20Linux/2.14%20Linux%20Log%20Files/) — Parsing authentication histories via `less` log processing, tracking unauthorized system escalation fingerprints, and mapping user session footprints (`lastlog`).
 * 🎓 [2.15 Challenge — Capstone Bash Automation](./2%20-%20Linux/2.15%20Challenge/) — Engineering a production-ready scripting engine utilizing regex parsing filters (`grep -E`), arithmetic loop expansions, and dynamic directory file tracking architectures.
+
+
+
+
+### 📁 Module 3: AWS Cloud Networking & Core Infrastructure
+*Status: Active Focus*
+* 🌐 [3.1 & 3.2](./3 - Networking/3.1 & 3.2/) — Core Networking Theory: Analyzing CIDR block allocations, subnet masking computations, and alignment to the 7-Layer OSI model.
+* 🛠️ [3.3 Internet Protocol](./3%20-%20Networking/3.3%20Internet%20Protocol/) — Understanding Public vs Private IP Behavior: Diagnosing internet connectivity boundaries and observing successful vs timed-out inbound OpenSSH handshake logs.
+* 🏗️ [3.4 Networking in AWS Cloud](./3%20-%20Networking/3.4%20Networking%20in%20AWS%20Cloud/) — Designing custom Amazon VPC boundaries from scratch, calculating classless allocation scales (CIDR) under RFC 1918 frameworks, and carving out variable-length public subnets.
+
+
+
+
 
 
 

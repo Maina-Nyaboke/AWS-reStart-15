@@ -33,10 +33,10 @@ This lab covers the essential mechanics of terminal-based text editors in Linux.
 ## 📸 Technical Verification Proofs
 
 ### Vim Interactive Tutorial Layout Verification
-![Vimtutor Interface](vimtutor_lesson.png)
+![Vimtutor Interface](./vimtutor_lesson.png)
 
 ### Vim Active Configuration In-Line Text Capture
-![Vim Buffer State Modifications](vim_edit.png)
+![Vim Buffer State Modifications](./vim_edit.png)
 
 ### Nano File Workspace Architecture Execution
-![Nano Text Layout Matrix](nano_edit.png)
+![Nano Text Layout Matrix](./nano_edit.png)

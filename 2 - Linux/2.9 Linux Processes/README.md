@@ -38,10 +38,10 @@ This lab covers runtime process observation, active resource infrastructure audi
 ## 📸 Technical Verification Proofs
 
 ### Process Extraction Pipeline Validation Log
-![Process Management](linux_process_monitoring.png)
+![Process Management](./linux_process_monitoring.png)
 
 ### Continuous Performance Dashboard Status Capture
-![Top Telemetry Metrics](linux_top_performance.png)
+![Top Telemetry Metrics](./linux_top_performance.png)
 
 ### Active Cron Orchestration Schedule Deployment Check
-![Cron Schedule Rules](linux_cron_automation.png)
+![Cron Schedule Rules](./linux_cron_automation.png)

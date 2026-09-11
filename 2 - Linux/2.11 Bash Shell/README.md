@@ -35,7 +35,7 @@ This lab demonstrates shell optimization strategies, command-line personalizatio
 ## 📸 Technical Verification Proofs
 
 ### Custom Alias Execution Verification Output
-![Alias Backup Log](bash_alias_backup.png)
+![Alias Backup Log](./bash_alias_backup.png)
 
 ### Variable Path Optimization and Global Command Execution
-![Path Configuration Telemetry](bash_path_environment.png)
+![Path Configuration Telemetry](./bash_path_environment.png)

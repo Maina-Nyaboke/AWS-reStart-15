@@ -34,4 +34,4 @@ This lab covers the compilation and execution of bash automation scripts used to
 ## 📸 Technical Verification Proofs
 
 ### Automated Shell Script Execution and Timestamped Output Validation
-![Bash Scripting Execution](bash_scripting_execution.png)
+![Bash Scripting Execution](./bash_scripting_execution.png)

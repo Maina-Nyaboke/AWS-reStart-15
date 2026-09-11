@@ -35,11 +35,11 @@ Constructed a running audit trail tracking configuration alterations using POSIX
 ## 📸 Architectural Proof of Work
 
 ### Tarball Archive Creation Log Output
-![Tar Archive Output](tar_backup_creation.png)
+![Tar Archive Output](./tar_backup_creation.png)
 
 ### Standard Stream Piping and Tee Activity Capture
-![System Logging Telemetry via Tee](system_logging_tee.png)
+![System Logging Telemetry via Tee](./system_logging_tee.png)
 
 ### Final Storage Blob Relocation Verification
-![Migrated Storage Assets Layout](migrated_archive_assets.png)
+![Migrated Storage Assets Layout](./migrated_archive_assets.png)
 

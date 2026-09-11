@@ -43,10 +43,10 @@ Tested structural OS guardrails by attempting unauthorized root access escalatio
 ## 📸 Architectural Proof of Work
 
 ### Multi-User Database Roster Verification
-![User Creation Log Output](user_creation.png)
+![User Creation Log Output](./user_creation.png)
 
 ### Group Membership Strategy Matrix
-![Group Alignment Outputs](group_memberships.png)
+![Group Alignment Outputs](./group_memberships.png)
 
 ### Incident Tracking Security Logs (/var/log/secure)
-![Sudo Infraction Audit Tracking Log](security_logs.png)
+![Sudo Infraction Audit Tracking Log](./security_logs.png)

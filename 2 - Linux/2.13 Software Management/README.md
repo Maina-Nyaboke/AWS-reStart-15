@@ -48,10 +48,10 @@ This lab covers advanced software package maintenance, transaction auditing, sta
 ## 📸 Technical Verification Proofs
 
 ### Package Manager History Undoing and State Rollback Output
-![Yum History Undo Verification](linux_yum_rollback.png)
+![Yum History Undo Verification](./linux_yum_rollback.png)
 
 ### Global AWS CLI Engine Version Registration Capture
-![AWS CLI System Verification](aws_cli_installation.png)
+![AWS CLI System Verification](./aws_cli_installation.png)
 
 ### Programmatic Cloud Query and Real-Time JSON API Response
-![AWS Cloud Infrastructure Query](aws_cli_cloud_query.png)
+![AWS Cloud Infrastructure Query](./aws_cli_cloud_query.png)

@@ -39,7 +39,7 @@ Executed a systemic directory restructuring to nest specific departmental folder
 ## 📸 Architectural Proof of Work
 
 ### Initial Recursive File System Structure Verification
-![Initial File Tree Map](initial_filesystem_tree.png)
+![Initial File Tree Map](./initial_filesystem_tree.png)
 
 ### Final Restructured Global Directory Topology
-![Restructured Architecture Tree Layout](restructured_filesystem.png)
+![Restructured Architecture Tree Layout](./restructured_filesystem.png)

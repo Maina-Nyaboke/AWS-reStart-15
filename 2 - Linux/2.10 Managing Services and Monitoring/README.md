@@ -38,10 +38,10 @@ This lab demonstrates system administration workflows centered around service ma
 ## 📸 Architectural Proof of Work
 
 ### Apache HTTP Web Server Deployment Verification
-![Apache Hosted Application Test Page](apache_web_test.png)
+![Apache Hosted Application Test Page](./apache_web_test.png)
 
 ### Linux Terminal System Resource Stress Mapping
-![Linux Performance Statistics inside Top](linux_system_stress.png)
+![Linux Performance Statistics inside Top](./linux_system_stress.png)
 
 ### AWS CloudWatch Metric Graph Aggregation Pipeline
-![CloudWatch Cloud Metrics Overview](aws_cloudwatch_telemetry.png)
+![CloudWatch Cloud Metrics Overview](./aws_cloudwatch_telemetry.png)

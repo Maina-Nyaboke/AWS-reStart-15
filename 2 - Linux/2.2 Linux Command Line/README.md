@@ -33,7 +33,7 @@ Leveraged native Bash shortcuts to reduce manual terminal input sequences:
 ## 📸 Visual Verification
 
 ### System and Calendar Inspection Log
-![Linux System Information Logs](linux_system_info.png)
+![Linux System Information Logs](./linux_system_info.png)
 
 ### Terminal History and Bang-Bang Execution Verification
-![Linux Terminal Shortcuts and History](linux_history_shortcuts.png)
+![Linux Terminal Shortcuts and History](./linux_history_shortcuts.png)

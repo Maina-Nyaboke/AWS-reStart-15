@@ -29,10 +29,10 @@ This lab covers core command-line utility configurations used to parse, filter, 
 ## 📸 Architectural Proof of Work
 
 ### Tee Stream Duplication and Capture Validation
-![Tee Execution Verification](linux_tee_interception.png)
+![Tee Execution Verification](./linux_tee_interception.png)
 
 ### Chronological Data Sorting and Filter Redirection Output
-![Sort and Grep Pipeline Capture](linux_sort_grep_pipeline.png)
+![Sort and Grep Pipeline Capture](./linux_sort_grep_pipeline.png)
 
 ### Programmatic Field Splitting and Sed Substitutions
-![Cut and Sed Text Manipulations](linux_cut_sed_manipulation.png)
+![Cut and Sed Text Manipulations](./linux_cut_sed_manipulation.png)
