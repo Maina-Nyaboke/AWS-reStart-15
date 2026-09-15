@@ -45,7 +45,7 @@ Welcome to my cloud computing and engineering showcase! This repository document
 *Status: Active Focus*
 * 🔐 [4.1 Introduction to Security](./4%20-%20Security/4.1%20Introduction%20to%20Security/) - Establishing core information security controls (CIA Triad), profiling modern cyber threat vectors, and engineering multi-ringed Defense-in-Depth architectural strategies.
 * 🛡️ [4.2 Security Lifecycle - Prevention](./4%20-%20Security/4.2%20Security%20Lifecycle%20-%20Prevention/) - Designing proactive defense perimeters, leveraging AWS Systems Manager for host vulnerability auditing, and implementing network, system, data, and identity hardening countermeasure controls.
-* 🛡️ [4.3 Prevention - Network Hardening](./4%20-%20Security/4.3%20Prevention%20-%20Network Hardening/) - Executing automated environment scans via Amazon Inspector, synthesizing NIST National Vulnerability Database (NVD) entries, and patch-remediating AWS Lambda dependency vulnerabilities (`CVE-2023-32681`).
+* 🛡️ [4.3 Prevention - Network Hardening](./4%20-%20Security/4.3%20Prevention%20-%20Network%20Hardening/) - Executing automated environment scans via Amazon Inspector, synthesizing NIST National Vulnerability Database (NVD) entries, and patch-remediating AWS Lambda dependency vulnerabilities (`CVE-2023-32681`).
 
 
 
