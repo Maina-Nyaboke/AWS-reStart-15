@@ -29,7 +29,7 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🎓 [2.15 Challenge — Capstone Bash Automation](./2%20-%20Linux/2.15%20Challenge/) - Engineering a production-ready scripting engine utilizing regex parsing filters (`grep -E`), arithmetic loop expansions, and dynamic directory file tracking architectures.
 
 
-### 📁 Module 3: AWS Cloud Networking & Core Infrastructure
+### 📁 Module 3: Networking
 *Status: Completed*
 
 * 🌐 [3.1 Introduction to Networking](./3%20-%20Networking/3.1%20Introduction%20to%20Networking) - Analyzing the 7-Layer OSI model reference framework, tracking raw bit encapsulations, and mapping physical hardware switches and routers.
@@ -39,6 +39,13 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 📊 [3.5 IP Subnetting](./3%20-%20Networking/3.5%20IP%20Subnetting/) - Triage and troubleshooting of networking infrastructure by mapping diagnostic shell commands (`ping`, `traceroute`, `netstat`, `telnet`, `curl`) directly across the structural layers of the 7-Layer OSI model.
 * 🌐 [3.6 Networking Protocols](./3%20-%20Networking/3.6%20Networking%20Protocols/) - Architecting highly available, fault-tolerant Multi-AZ cloud networks, linking redundant public/private cross-zone subnets, configuring custom security group rules, and bootstrapping automated web server runtimes via EC2 User Data shell parameters.
 * 📡 [3.7 Networking Technologies](./3%20-%20Networking/3.7%20Networking%20Technologies/) - Investigating edge networking topologies, low-power IoT sensor connectivity frameworks, and managed telemetry message routing brokers (`AWS IoT Core`) utilizing the lightweight MQTT protocol.
+
+
+### 📁 Module 4: AWS Cloud Security & Risk Governance
+*Status: Active Focus*
+* 🔐 [4.1 Introduction to Security](./4%20-%20Security/4.1%20Introduction%20to%20Security/) - Establishing core information security controls (CIA Triad), profiling modern cyber threat vectors, and engineering multi-ringed Defense-in-Depth architectural strategies.
+* 🛡️ [4.2 Security Lifecycle - Prevention](./4%20-%20Security/4.2%20Security%20Lifecycle%20-%20Prevention/) - Designing proactive defense perimeters, leveraging AWS Systems Manager for host vulnerability auditing, and implementing network, system, data, and identity hardening countermeasure controls.
+
 
 
 
