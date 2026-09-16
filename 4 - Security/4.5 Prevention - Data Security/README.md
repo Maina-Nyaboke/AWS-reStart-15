@@ -1,4 +1,4 @@
-# AWS Security Lab: Data Security Controls — Symmetric Cryptography & Envelope Encryption via AWS KMS
+# AWS Security Lab: Data Security Controls - Symmetric Cryptography & Envelope Encryption via AWS KMS
 
 ## 📌 Project Overview
 This lab documents the engineering implementation of **Data Security Controls** within the prevention security lifecycle phase. To enforce absolute data confidentiality and integrity benchmarks (The CIA Triad), we provisioned a hardware-secured cryptographic master key via **AWS Key Management Service (KMS)**, authenticated an enterprise file server instance via **SSM Session Manager**, deployed the **AWS Encryption CLI** engine, and executed full programmatic symmetric encryption/decryption loops to transform plaintext assets into immutable ciphertext.
