@@ -47,6 +47,7 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🛡️ [4.2 Security Lifecycle - Prevention](./4%20-%20Security/4.2%20Security%20Lifecycle%20-%20Prevention/) - Designing proactive defense perimeters, leveraging AWS Systems Manager for host vulnerability auditing, and implementing network, system, data, and identity hardening countermeasure controls.
 * 🛡️ [4.3 Prevention - Network Hardening](./4%20-%20Security/4.3%20Prevention%20-%20Network%20Hardening/) - Executing automated environment scans via Amazon Inspector, synthesizing NIST National Vulnerability Database (NVD) entries, and patch-remediating AWS Lambda dependency vulnerabilities (`CVE-2023-32681`).
 * ⚙️ [4.4 Prevention: Systems Hardening](./4%20-%20Security/4.4%20Prevention%20-%20Systems%20Hardening/) - Automating cross-platform patch operations via AWS Systems Manager (SSM) Fleet Manager, developing custom Windows compliance baselines, and orchestrating Run Command node updates to achieve 100% cloud security compliance.
+* 🔒 [4.5 Prevention: Data Security](./4%20-%20Security/4.5%20Prevention%20-%20Data%20Security/) - Creating FIPS-compliant symmetric cryptographic keys via AWS KMS, installing the AWS Encryption CLI over SSM Session Manager, and executing envelope encryption/decryption pipelines to protect data at rest.
 
 
 
