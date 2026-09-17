@@ -29,10 +29,10 @@ Public Key Infrastructure is the hardware, software, people, policies, and proce
 ```text
 [ Web Browser Client ]                                     [ AWS Infrastructure Target ]
    │                                                          │
-   │ 1. Client Requests Secure HTTPS Session                 │
+   │ 1. Client Requests Secure HTTPS Session                  │
    │─────────────────────────────────────────────────────────>│
    │                                                          │
-   │ 2. Server Sends Public X.509 Certificate (Signed by CA) │
+   │ 2. Server Sends Public X.509 Certificate (Signed by CA)  │
    │<─────────────────────────────────────────────────────────│
    │                                                          │
    │ [ Client verifies certificate validity against Root CA ] │
@@ -42,6 +42,6 @@ Public Key Infrastructure is the hardware, software, people, policies, and proce
    │                                                          │
    │                     [ Server decrypts using Private Key] │
    │                                                          │
-   │ 4. Secure Symmetric Session Tunnel Established (TLS)    │
+   │ 4. Secure Symmetric Session Tunnel Established (TLS)     │
    │<========================================================>│
 ```
