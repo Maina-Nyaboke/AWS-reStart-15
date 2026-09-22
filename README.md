@@ -52,6 +52,8 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🆔 [4.7 Prevention: Identity Management](./4%20-%20Security/4.7%20Prevention%20-%20Identity%20Management/) - Deploying the structural IAAA control framework, enforcing multi-factor authentication (MFA) guardrails, securing Personally Identifiable Information (PII), and orchestrating unified enterprise access models (`Single Sign-On`, `User Federation`, and `Amazon Cognito`).
 * 🆔 [4.8 Prevention: AWS IAM](./4%20-%20Security/4.8%20Prevention%20-%20AWS%20IAM/) - Enforcing granular resource authorizations via AWS Identity and Access Management, mapping structured user groups, evaluating managed vs inline customer ciphers, and executing multi-role cross-account access simulation tests.
 * 🛡️ [4.9 Detection: Network Firewall](./4%20-%20Security/4.9%20Detection/) - Simulating active malware threat vectors, building custom Suricata-compatible IPS signature rules within AWS Network Firewall, and analyzing stateful packet-filtering drops via live terminal logs.
+* 📊 [4.10 AWS CloudTrail](./4%20-%20Security/4.10%20AWS%20CloudTrail/) - Implementing continuous API-level security logging, analyzing cross-region compliance governance metrics, and structuring immutable WORM audit trails for enterprise incident response.
+
 
 
 
