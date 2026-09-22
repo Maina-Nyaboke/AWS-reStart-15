@@ -49,6 +49,11 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * ⚙️ [4.4 Prevention: Systems Hardening](./4%20-%20Security/4.4%20Prevention%20-%20Systems%20Hardening/) - Automating cross-platform patch operations via AWS Systems Manager (SSM) Fleet Manager, developing custom Windows compliance baselines, and orchestrating Run Command node updates to achieve 100% cloud security compliance.
 * 🔒 [4.5 Prevention: Data Security](./4%20-%20Security/4.5%20Prevention%20-%20Data%20Security/) - Creating FIPS-compliant symmetric cryptographic keys via AWS KMS, installing the AWS Encryption CLI over SSM Session Manager, and executing envelope encryption/decryption pipelines to protect data at rest.
 * 📡 [4.6 Prevention: Public Key Infrastructure](./4%20-%20Security/4.6%20Prevention%20-%20Public%20Key%20Infrastructure/) - Evaluating asymmetric cryptographic trust structures, auditing X.509 digital certificate architectures, and orchestrating managed SSL/TLS lifecycle rotations via AWS Certificate Manager (ACM).
+* 🆔 [4.7 Prevention: Identity Management](./4%20-%20Security/4.7%20Prevention%20-%20Identity%20Management/) - Deploying the structural IAAA control framework, enforcing multi-factor authentication (MFA) guardrails, securing Personally Identifiable Information (PII), and orchestrating unified enterprise access models (`Single Sign-On`, `User Federation`, and `Amazon Cognito`).
+* 🆔 [4.8 Prevention: AWS IAM](./4%20-%20Security/4.8%20Prevention%20-%20AWS%20IAM/) - Enforcing granular resource authorizations via AWS Identity and Access Management, mapping structured user groups, evaluating managed vs inline customer ciphers, and executing multi-role cross-account access simulation tests.
+* 🛡️ [4.9 Detection: Network Firewall](./4%20-%20Security/4.9%20Detection/) - Simulating active malware threat vectors, building custom Suricata-compatible IPS signature rules within AWS Network Firewall, and analyzing stateful packet-filtering drops via live terminal logs.
+
+
 
 
 

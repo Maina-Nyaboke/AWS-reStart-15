@@ -1,4 +1,4 @@
-# AWS Security Lab: Access Control & Authorization — Granular Identity Management & Least Privilege Enforcement via AWS IAM
+# AWS Security Lab: Access Control & Authorization - Granular Identity Management & Least Privilege Enforcement via AWS IAM
 
 ## 📌 Project Overview
 This lab documents the engineering implementation of **Identity Governance and Authentication Frameworks** using native **AWS Identity and Access Management (IAM)** ciphers. To enforce absolute adherence to the **Principle of Least Privilege (PoLP)**, we optimized account-wide password policies, mapped out structured **User Groups**, assigned both **AWS Managed Policies** and complex **Customer Inline Policies**, and executed simulation cross-account testing across distinct identity roles to visually validate absolute access containment boundaries inside the cloud.
