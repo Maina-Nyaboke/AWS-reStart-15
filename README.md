@@ -56,6 +56,7 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 📊 [4.11 AWS Config](./4%20-%20Security/4.11%20AWS%20Config/) - Configuring continuous infrastructure configuration tracking, evaluating architecture states against AWS Managed Rules, and automating security drift remediation pipelines.
 * 🛡️ [4.12 Security Lifecycle - Response](./4%20-%20Security/4.12%20Security%20Lifecycle%20-%20Response/)- Structuring high-availability business continuity frameworks, modeling system thresholds (RTO, RPO, MTD), and analyzing cloud disaster recovery options (Pilot Light, Warm Standby, Active-Active).
 * 📊 [4.13 Security Lifecycle - Analysis](./4%20-%20Security/4.13%20Security%20Lifecycle%20-%20Analysis/) - Conducting continuous event triage, wiring up Amazon CloudWatch Alarms to track hardware performance thresholds (`CPUUtilization > 60%`), configuring Amazon SNS email alerts, and designing custom executive monitoring dashboards.
+* 🛡️ [4.14 AWS Trusted Advisor](./4%20-%20Security/4.14%20AWS%20Trusted%20Advisor/) - Continuous automated cloud optimization, evaluating infrastructure status parameters across five core operational pillars, and resolving high-priority security and cost checks.
 
 
 
