@@ -1,4 +1,4 @@
-# AWS re/Start Program — Cloud & DevOps Portfolio
+# AWS re/Start Program - Cloud & DevOps Portfolio
 
 Welcome to my cloud computing and engineering showcase! This repository documents my hands-on technical labs, practical architectures, and configuration workflows completed during the AWS re/Start program.
 
@@ -6,7 +6,7 @@ Welcome to my cloud computing and engineering showcase! This repository document
 
 ### 📁 Module 1: Cloud Foundations
 *Status: Completed*
-* [1 - Cloud Foundations Folder](./1%20-%20Cloud%20Foundations/) — Complete architectural reference guide tracking computing concepts, agile roles, cloud economy advantages, global infrastructure regions/AZ topology layout, and foundational storage/compute layers (S3/EC2).
+* [1 - Cloud Foundations Folder](./1%20-%20Cloud%20Foundations/) - Complete architectural reference guide tracking computing concepts, agile roles, cloud economy advantages, global infrastructure regions/AZ topology layout, and foundational storage/compute layers (S3/EC2).
 
 
 ### 📁 Module 2: Linux
@@ -53,6 +53,9 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🆔 [4.8 Prevention: AWS IAM](./4%20-%20Security/4.8%20Prevention%20-%20AWS%20IAM/) - Enforcing granular resource authorizations via AWS Identity and Access Management, mapping structured user groups, evaluating managed vs inline customer ciphers, and executing multi-role cross-account access simulation tests.
 * 🛡️ [4.9 Detection: Network Firewall](./4%20-%20Security/4.9%20Detection/) - Simulating active malware threat vectors, building custom Suricata-compatible IPS signature rules within AWS Network Firewall, and analyzing stateful packet-filtering drops via live terminal logs.
 * 📊 [4.10 AWS CloudTrail](./4%20-%20Security/4.10%20AWS%20CloudTrail/) - Implementing continuous API-level security logging, analyzing cross-region compliance governance metrics, and structuring immutable WORM audit trails for enterprise incident response.
+* 📊 [4.11 AWS Config](./4%20-%20Security/4.11%20AWS%20Config/) - Configuring continuous infrastructure configuration tracking, evaluating architecture states against AWS Managed Rules, and automating security drift remediation pipelines.
+
+
 
 
 
