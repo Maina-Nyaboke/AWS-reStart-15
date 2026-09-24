@@ -68,6 +68,8 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * ⚙️ [5.2 Python Programming Basics](./5%20-%20Python%20Programming/5.2%20Python%20Programming%20Basics/) - Standardizing interpreter syntax styles, mapping mutable vs immutable memory states, enforcing strict identifier filters, and analyzing the mathematical operator precedence priority matrix.
 * 🔀 [5.3 Python Flow Control](./5%20-%20Python%20Programming/5.3%20Python%20Flow%20Control/) - Implementing conditional decision routing blocks, developing event-driven `while` titration loops, and utilizing list comprehensions to calculate the chemical net charge of human insulin.
 * 🔐 [5.4 Python Programming Functions](./5%20-%20Python%20Programming/5.4%20Python%20Programming%20Functions/) - Designing modular, reusable user-defined software functions, decomposing script files, and implementing a programmatic Caesar Cipher transposition cryptographic engine.
+* 📦 [5.5 Python Modules & Libraries](./5%20-%20Python%20Programming/5.5%20Python%20Modules%20&%20Libraries/) - Designing custom decoupled code file handlers, implementing defensive `try/except` `IOError` exception boundaries, and parsing nested JSON data payloads into functional dictionary structures.
+
 
 
 
