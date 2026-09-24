@@ -66,6 +66,8 @@ Welcome to my cloud computing and engineering showcase! This repository document
 *Status: Active Focus*
 * 🔢 [5.1 Introduction to Python Programming](./5%20-%20Python%20Programming/5.1%20Introduction%20to%20Python%20Programming/) - Mastering Python 3 interpreters, handling dynamic string inputs, manipulating mutable/immutable collections, parsing tabular CSV data files, and engineering computational bioinformatics workflows to slice human insulin sequences.
 * ⚙️ [5.2 Python Programming Basics](./5%20-%20Python%20Programming/5.2%20Python%20Programming%20Basics/) - Standardizing interpreter syntax styles, mapping mutable vs immutable memory states, enforcing strict identifier filters, and analyzing the mathematical operator precedence priority matrix.
+* 🔀 [5.3 Python Flow Control](./5%20-%20Python%20Programming/5.3%20Python%20Flow%20Control/) — Implementing conditional decision routing blocks, developing event-driven `while` titration loops, and utilizing list comprehensions to calculate the chemical net charge of human insulin.
+
 
 
 
