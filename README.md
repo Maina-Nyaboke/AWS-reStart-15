@@ -64,7 +64,8 @@ Welcome to my cloud computing and engineering showcase! This repository document
 
 ### 🐍 Module 5: Python 
 *Status: Active Focus*
-* 🔢 [5.1 Introduction to Programming](./5%20-%20Python%20Programming/5.1%20Introduction%20to%20Python%20Programming/) — Mastering Python 3 interpreters, handling dynamic string inputs, manipulating mutable/immutable collections, parsing tabular CSV data files, and engineering computational bioinformatics workflows to slice human insulin sequences.
+* 🔢 [5.1 Introduction to Python Programming](./5%20-%20Python%20Programming/5.1%20Introduction%20to%20Python%20Programming/) - Mastering Python 3 interpreters, handling dynamic string inputs, manipulating mutable/immutable collections, parsing tabular CSV data files, and engineering computational bioinformatics workflows to slice human insulin sequences.
+
 
 
 
