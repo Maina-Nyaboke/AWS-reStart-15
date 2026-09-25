@@ -70,6 +70,8 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🔐 [5.4 Python Programming Functions](./5%20-%20Python%20Programming/5.4%20Python%20Programming%20Functions/) - Designing modular, reusable user-defined software functions, decomposing script files, and implementing a programmatic Caesar Cipher transposition cryptographic engine.
 * 📦 [5.5 Python Modules & Libraries](./5%20-%20Python%20Programming/5.5%20Python%20Modules%20&%20Libraries/) - Designing custom decoupled code file handlers, implementing defensive `try/except` `IOError` exception boundaries, and parsing nested JSON data payloads into functional dictionary structures.
 * ⚙️ [5.6 Python System Administration](./5%20-%20Python%20Programming/5.6%20Python%20System%20Administration/) - Leveraging Python process abstraction libraries (`subprocess.run`), executing list-wrapped command parameters, and programmatically auditing Linux kernel states and active process logs.
+* 🐞 [5.7 Debugging and Testing](./5%20-%20Python%20Programming/5.7%20Debugging%20and%20Testing/) - Configuring dynamic runtime breakpoints, monitoring variable allocations via watch expressions, and executing headless command-line code triage via the standard `pdb` module.
+
 
 
 
