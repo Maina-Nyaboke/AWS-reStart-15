@@ -69,6 +69,8 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🔀 [5.3 Python Flow Control](./5%20-%20Python%20Programming/5.3%20Python%20Flow%20Control/) - Implementing conditional decision routing blocks, developing event-driven `while` titration loops, and utilizing list comprehensions to calculate the chemical net charge of human insulin.
 * 🔐 [5.4 Python Programming Functions](./5%20-%20Python%20Programming/5.4%20Python%20Programming%20Functions/) - Designing modular, reusable user-defined software functions, decomposing script files, and implementing a programmatic Caesar Cipher transposition cryptographic engine.
 * 📦 [5.5 Python Modules & Libraries](./5%20-%20Python%20Programming/5.5%20Python%20Modules%20&%20Libraries/) - Designing custom decoupled code file handlers, implementing defensive `try/except` `IOError` exception boundaries, and parsing nested JSON data payloads into functional dictionary structures.
+* ⚙️ [5.6 Python System Administration](./5%20-%20Python%20Programming/5.6%20Python%20System%20Administration/) - Leveraging Python process abstraction libraries (`subprocess.run`), executing list-wrapped command parameters, and programmatically auditing Linux kernel states and active process logs.
+
 
 
 
