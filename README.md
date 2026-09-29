@@ -76,9 +76,11 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🧮 [Python Challenge](./5%20-%20Python%20Programming/Python%20Challenge/) - Developing prime number transposition filtering algorithms, configuring optimized square-root iteration boundary checks, and executing file output stream scripts on a remote EC2 server via SSH.
 
 
-### 🗄️ Module 6: Database Architectures & Relational Data Engineering
+### 🗄️ Module 6: Databases
 *Status: Active Focus*
-* 🏗️ [6.1 Introduction to Databases](./6%20-%20Databases/6.1%20Introduction%20to%20Databasea) - Analyzing relational and non-relational database models, evaluating schema architectures, and parsing cloud-managed Database-as-a-Service (DBaaS) deployment advantages.
+* 🏗️ [6.1 Introduction to Databases](./6%20-%20Databases/6.1%20Introduction%20to%20Databases) - Analyzing relational and non-relational database models, evaluating schema architectures, and parsing cloud-managed Database-as-a-Service (DBaaS) deployment advantages.
+* ✍️ [6.2 Data Interaction & Database Transaction](./6%20-%20Databases/6.2%20Data%20Interaction%20&%20Database%20Transaction) - Structuring client-server and multi-tier application data interaction paths and enforcing strict transactional ACID compliance guardrails across cloud networks.
+
 
 
 
