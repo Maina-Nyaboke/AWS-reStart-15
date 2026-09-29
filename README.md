@@ -73,6 +73,8 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🐞 [5.7 Debugging and Testing](./5%20-%20Python%20Programming/5.7%20Debugging%20and%20Testing/) - Configuring dynamic runtime breakpoints, monitoring variable allocations via watch expressions, and executing headless command-line code triage via the standard `pdb` module.
 * 🚀 [5.8 DevOps & Continuous Integration](./5%20-%20Python%20Programming/5.8%20Python%20DevOps%20&%20Continuous%20Integration/) - Evaluating CI/CD pipeline lifecycles, mapping collaborative vs hierarchical corporate cultures, balancing automation limits, and defining the operational boundaries between automation and orchestration.
 * ⚙️ [5.9 Python Configuration Management](./5%20-%20Python%20Programming/5.9%20Python%20Configuration%20Management/) - Structural code organization blueprint design, separating project folder hierarchies, enforcing repository `.gitignore` security barriers, and managing accounting and versioning states.
+* 🧮 [Python Challenge](./5%20-%20Python%20Programming/Python%20Challenge/) - Developing prime number transposition filtering algorithms, configuring optimized square-root iteration boundary checks, and executing file output stream scripts on a remote EC2 server via SSH.
+
 
 
 

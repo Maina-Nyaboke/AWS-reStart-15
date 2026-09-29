@@ -1,0 +1,40 @@
+# -*- coding: utf-8 -*-
+# Python3 Capstone Challenge: Prime Number Generation & File I/O Extraction
+
+def generate_prime_numbers(start, end):
+    primes = []
+    
+    for num in range(start, end + 1):
+        # 1 is not a prime number by mathematical definition
+        if num > 1:
+            is_prime = True
+            # Check for structural factor divisors up to the square root of the number
+            for i in range(2, int(num ** 0.5) + 1):
+                if (num % i) == 0:
+                    is_prime = False
+                    break
+            if is_prime:
+                primes.append(num)
+                
+    return primes
+
+def save_and_display_results():
+    start_range = 1
+    end_range = 250
+    output_file = "results.txt"
+    
+    # Calculate prime metrics over the specified constraint window
+    prime_list = generate_prime_numbers(start_range, end_range)
+    
+    print(f"--- Algorithmic Execution Telemetry ---")
+    print(f"Isolating all prime numbers between {start_range} and {end_range}...")
+    
+    # Open target file context stream to commit results to hard disk memory
+    with open(output_file, "w") as file:
+        for prime in prime_list:
+            file.write(f"{prime}\n")
+            
+    print(f"Successfully processed and stored {len(prime_list)} prime numbers inside '{output_file}'.")
+
+if __name__ == "__main__":
+    save_and_display_results()
