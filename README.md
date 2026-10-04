@@ -82,6 +82,8 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * ✍️ [6.2 Data Interaction & Database Transaction](./6%20-%20Databases/6.2%20Data%20Interaction%20&%20Database%20Transaction) - Structuring client-server and multi-tier application data interaction paths and enforcing strict transactional ACID compliance guardrails across cloud networks.
 * 🏗️ [6.3 Creating Tables & Data Types](./6%20-%20Databases/6.3%20Creating%20Tables%20&%20Data%20Types/) - Designing data schemas via SQL Data Definition Language (DDL), enforcing column data types, mapping primary keys, and orchestrating table alter migrations.
 * ✍️ [6.4 Inserting Data into a Database](./6%20-%20Databases/6.4%20Inserting%20Data%20into%20a%20Database/) - Mastering Data Manipulation Language (DML), executing global state updates, applying deletion rollbacks, and automating mass dataset seeding using SQL ingestion pipelines.
+* 🔍 [6.5 Selecting Data](./6%20-%20Databases/6.5%20Selecting%20Data/) - Designing SQL search queries, implementing column data aliasing structures, executing multi-conditional `AND` logic filters, and sorting records via descending arrays.
+
 
 
 
