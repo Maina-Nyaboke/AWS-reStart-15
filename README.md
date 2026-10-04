@@ -85,6 +85,8 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🔍 [6.5 Selecting Data](./6%20-%20Databases/6.5%20Selecting%20Data/) - Designing SQL search queries, implementing column data aliasing structures, executing multi-conditional `AND` logic filters, and sorting records via descending arrays.
 * 🎯 [6.6 Performing Conditional Search](./6%20-%20Databases/6.6%20Performing%20Conditional%20Search/) - Deploying advanced database search conditions, implementing inclusive `BETWEEN` ranges, engineering wildcard patterns using `LIKE`, and applying string case-flattening operations (`LOWER`).
 * 📊 [6.7 Working with Functions](./6%20-%20Databases/6.7%20Working%20with%20Functions/) - Executing mathematical aggregate functions, applying data de-duplication rules (`DISTINCT`), deploying text filters (`TRIM`, `LENGTH`), and engineering string splitting routines.
+* 📁 [6.8 Organizing Data](./6%20-%20Databases/6.8%20Organizing%20Data/) - Mastering data grouping metrics (`GROUP BY`), deploying advanced inline window calculations (`SUM OVER`), and computing partition rank indexes (`RANK OVER`).
+
 
 ---
 *Maintained by Maina Nyaboke • Aspiring AWS Cloud Professional*
