@@ -84,6 +84,7 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * ✍️ [6.4 Inserting Data into a Database](./6%20-%20Databases/6.4%20Inserting%20Data%20into%20a%20Database/) - Mastering Data Manipulation Language (DML), executing global state updates, applying deletion rollbacks, and automating mass dataset seeding using SQL ingestion pipelines.
 * 🔍 [6.5 Selecting Data](./6%20-%20Databases/6.5%20Selecting%20Data/) - Designing SQL search queries, implementing column data aliasing structures, executing multi-conditional `AND` logic filters, and sorting records via descending arrays.
 * 🎯 [6.6 Performing Conditional Search](./6%20-%20Databases/6.6%20Performing%20Conditional%20Search/) - Deploying advanced database search conditions, implementing inclusive `BETWEEN` ranges, engineering wildcard patterns using `LIKE`, and applying string case-flattening operations (`LOWER`).
+* 📊 [6.7 Working with Functions](./6%20-%20Databases/6.7%20Working%20with%20Functions/) - Executing mathematical aggregate functions, applying data de-duplication rules (`DISTINCT`), deploying text filters (`TRIM`, `LENGTH`), and engineering string splitting routines.
 
 ---
 *Maintained by Maina Nyaboke • Aspiring AWS Cloud Professional*
