@@ -87,6 +87,8 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 📊 [6.7 Working with Functions](./6%20-%20Databases/6.7%20Working%20with%20Functions/) - Executing mathematical aggregate functions, applying data de-duplication rules (`DISTINCT`), deploying text filters (`TRIM`, `LENGTH`), and engineering string splitting routines.
 * 📁 [6.8 Organizing Data](./6%20-%20Databases/6.8%20Organizing%20Data/) - Mastering data grouping metrics (`GROUP BY`), deploying advanced inline window calculations (`SUM OVER`), and computing partition rank indexes (`RANK OVER`).
 * 🖥️ [6.9 Retrieving Data](./6%20-%20Databases/6.9%20Retrieving%20Data/) - Architectural design of a three-tier cloud application web app, launching a Multi-AZ high-availability Amazon RDS MySQL database cluster, and hardening private network firewalls.
+* 🌌 [6.10 Amazon RDS](./6%20-%20Databases/6.10%20Amazon%20RDS/) - Provisioning cloud-native distributed Amazon Aurora clusters, decoupling compute and storage tiers, installing client dependencies (`mariadb`), and querying multi-AZ database backends.
+
 
 
 
