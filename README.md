@@ -86,6 +86,8 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🎯 [6.6 Performing Conditional Search](./6%20-%20Databases/6.6%20Performing%20Conditional%20Search/) - Deploying advanced database search conditions, implementing inclusive `BETWEEN` ranges, engineering wildcard patterns using `LIKE`, and applying string case-flattening operations (`LOWER`).
 * 📊 [6.7 Working with Functions](./6%20-%20Databases/6.7%20Working%20with%20Functions/) - Executing mathematical aggregate functions, applying data de-duplication rules (`DISTINCT`), deploying text filters (`TRIM`, `LENGTH`), and engineering string splitting routines.
 * 📁 [6.8 Organizing Data](./6%20-%20Databases/6.8%20Organizing%20Data/) - Mastering data grouping metrics (`GROUP BY`), deploying advanced inline window calculations (`SUM OVER`), and computing partition rank indexes (`RANK OVER`).
+* 🖥️ [6.9 Retrieving Data](./6%20-%20Databases/6.9%20Retrieving%20Data/) - Architectural design of a three-tier cloud application web app, launching a Multi-AZ high-availability Amazon RDS MySQL database cluster, and hardening private network firewalls.
+
 
 
 ---
