@@ -77,7 +77,7 @@ Welcome to my cloud computing and engineering showcase! This repository document
 
 
 ### 🗄️ Module 6: Databases
-*Status: Active Focus*
+*Status: Completed*
 * 🏗️ [6.1 Introduction to Databases](./6%20-%20Databases/6.1%20Introduction%20to%20Databases) - Analyzing relational and non-relational database models, evaluating schema architectures, and parsing cloud-managed Database-as-a-Service (DBaaS) deployment advantages.
 * ✍️ [6.2 Data Interaction & Database Transaction](./6%20-%20Databases/6.2%20Data%20Interaction%20&%20Database%20Transaction) - Structuring client-server and multi-tier application data interaction paths and enforcing strict transactional ACID compliance guardrails across cloud networks.
 * 🏗️ [6.3 Creating Tables & Data Types](./6%20-%20Databases/6.3%20Creating%20Tables%20&%20Data%20Types/) - Designing data schemas via SQL Data Definition Language (DDL), enforcing column data types, mapping primary keys, and orchestrating table alter migrations.
@@ -89,6 +89,8 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🖥️ [6.9 Retrieving Data](./6%20-%20Databases/6.9%20Retrieving%20Data/) - Architectural design of a three-tier cloud application web app, launching a Multi-AZ high-availability Amazon RDS MySQL database cluster, and hardening private network firewalls.
 * 🌌 [6.10 Amazon RDS](./6%20-%20Databases/6.10%20Amazon%20RDS/) - Provisioning cloud-native distributed Amazon Aurora clusters, decoupling compute and storage tiers, installing client dependencies (`mariadb`), and querying multi-AZ database backends.
 * ⚡ [6.11 Amazon DynamoDB](./6%20-%20Databases/6.11%20Amazon%20DynamoDB/) - Architecting serverless key-value document stores using Amazon DynamoDB, implementing composite partition keys, and auditing the performance differences between Indexed Queries and Table Scans.
+* 🏁 [6.12 Capstone Database Challenge](./6%20-%20Databases/6.12%20Capstone%20Database%20Challenge/) - Building an AWS-managed standalone Amazon RDS database instance, implementing relational primary/foreign key data schemas, seeding complex datasets, and writing horizontal `INNER JOIN` queries.
+
 
 
 
