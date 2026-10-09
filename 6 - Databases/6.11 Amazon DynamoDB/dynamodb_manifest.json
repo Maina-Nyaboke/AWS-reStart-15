@@ -1,0 +1,29 @@
+{
+  "TableName": "Music",
+  "PrimaryKeys": {
+    "PartitionKey": "Artist (String)",
+    "SortKey": "Song (String)"
+  },
+  "Items": [
+    {
+      "Artist": "Pink Floyd",
+      "Song": "Money",
+      "Album": "The Dark Side of the Moon",
+      "Year": 1973
+    },
+    {
+      "Artist": "John Lennon",
+      "Song": "Imagine",
+      "Album": "Imagine",
+      "Year": 1971,
+      "Genre": "Soft rock"
+    },
+    {
+      "Artist": "Psy",
+      "Song": "Gangnam Style",
+      "Album": "Psy 6 (Six Rules), Part 1",
+      "Year": 2012,
+      "LengthSeconds": 219
+    }
+  ]
+}
