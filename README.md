@@ -88,6 +88,7 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 📁 [6.8 Organizing Data](./6%20-%20Databases/6.8%20Organizing%20Data/) - Mastering data grouping metrics (`GROUP BY`), deploying advanced inline window calculations (`SUM OVER`), and computing partition rank indexes (`RANK OVER`).
 * 🖥️ [6.9 Retrieving Data](./6%20-%20Databases/6.9%20Retrieving%20Data/) - Architectural design of a three-tier cloud application web app, launching a Multi-AZ high-availability Amazon RDS MySQL database cluster, and hardening private network firewalls.
 * 🌌 [6.10 Amazon RDS](./6%20-%20Databases/6.10%20Amazon%20RDS/) - Provisioning cloud-native distributed Amazon Aurora clusters, decoupling compute and storage tiers, installing client dependencies (`mariadb`), and querying multi-AZ database backends.
+* ⚡ [6.11 Amazon DynamoDB](./6%20-%20Databases/6.11%20Amazon%20DynamoDB/) - Architecting serverless key-value document stores using Amazon DynamoDB, implementing composite partition keys, and auditing the performance differences between Indexed Queries and Table Scans.
 
 
 
