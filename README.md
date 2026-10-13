@@ -103,6 +103,8 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🔐 [8.2 AWS IAM Review](./8%20-%20Systems%20Operations/8.2%20AWS%20IAM%20Review/) - Auditing programmatic vs console access modes, evaluating identity-based, resource-based, and Service Control Policies (SCPs), and standardizing enterprise Identity Access best practices.
 * 💻 [8.3 AWS Command Line Interface](./8%20-%20Systems%20Operations/8.3%20AWS%20Command%20Line%20Interface/) - Configuring local CLI environments, running advanced `--filter` and `--query` JMESPath strings, and executing defensive `--dry-run` code deployment validations.
 
+* 🛠️ [8.4 Installing and Configuring AWS CLI](./8%20-%20Systems%20Operations/8.4%20Installing%20&%20Configuring%20AWS%20CLI/) - Deploying AWS CLI v2 binaries onto Red Hat Linux kernels, initializing `aws configure` cryptographic key pairs, and programmatically extracting JSON IAM security policies.
+
 
 
 ---
