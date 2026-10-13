@@ -43,8 +43,7 @@ Traditional Linux instances require explicit local compilation packages to commu
 ## 📸 Technical Verification Proofs
 
 ### Binary Deployment: Successful Installation and Path Verification of AWS CLI v2
-![cli_install](./lab128_system_administration.png)
-*(Note: As we resolve our path adjustments, ensure your fresh `lab143_cli_installation.png` is placed right inside this directory layout).*
+![cli_install](./lab143_cli_installation.png)
 
 ### API Connection Validation: Successful Account Authentication Tracking User Profiles
 ![identity_config](./lab143_identity_configuration.png)
