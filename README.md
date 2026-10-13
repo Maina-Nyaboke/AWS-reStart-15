@@ -92,6 +92,11 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🏁 [6.12 Capstone Database Challenge](./6%20-%20Databases/6.12%20Capstone%20Database%20Challenge/) - Building an AWS-managed standalone Amazon RDS database instance, implementing relational primary/foreign key data schemas, seeding complex datasets, and writing horizontal `INNER JOIN` queries.
 
 
+### 🏗️ Module 7: AWS Infrastructure Architecture & Governance
+*Status: Completed*
+* 🏛️ [7 Architecture Design Frameworks](./7%20-%20AWS%20Architecture/) - Aligning business and technical domains via the AWS Cloud Adoption Framework (CAF), implementing the 6 Well-Architected Pillars, and structuring high-availability cloud migration topologies.
+
+
 
 
 
