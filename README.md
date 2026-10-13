@@ -92,10 +92,15 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🏁 [6.12 Capstone Database Challenge](./6%20-%20Databases/6.12%20Capstone%20Database%20Challenge/) - Building an AWS-managed standalone Amazon RDS database instance, implementing relational primary/foreign key data schemas, seeding complex datasets, and writing horizontal `INNER JOIN` queries.
 
 
-### 🏗️ Module 7: AWS Infrastructure Architecture & Governance
+### 🏗️ Module 7: AWS Architecture
 *Status: Completed*
 * 🏛️ [7 Architecture Design Frameworks](./7%20-%20AWS%20Architecture/) - Aligning business and technical domains via the AWS Cloud Adoption Framework (CAF), implementing the 6 Well-Architected Pillars, and structuring high-availability cloud migration topologies.
 
+
+### ⚙️ Module 8: Systems Operations
+*Status: Active Focus*
+* 🛠️ [8.1 System Operations on AWS](./8%20-%20Systems%20Operations/8.1%20System%20Operations%20on%20AWS/) - Analyzing the core lifecycle domains of SysOps (Build, Test, Deploy, Monitor, Maintain, Safeguard), evaluating cloud fleet automation benefits, and deploying structured troubleshooting knowledge bases.
+* 🔐 [8.2 AWS IAM Review](./8%20-%20Systems%20Operations/8.2%20AWS%20IAM%20Review/) - Auditing programmatic vs console access modes, evaluating identity-based, resource-based, and Service Control Policies (SCPs), and standardizing enterprise Identity Access best practices.
 
 
 
