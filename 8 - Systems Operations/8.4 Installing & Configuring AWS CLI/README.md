@@ -43,10 +43,10 @@ Traditional Linux instances require explicit local compilation packages to commu
 ## 📸 Technical Verification Proofs
 
 ### Binary Deployment: Successful Installation and Path Verification of AWS CLI v2
-![cli_install](./lab143_cli_installation.png)
+![cli_install](./cli_installation.png)
 
 ### API Connection Validation: Successful Account Authentication Tracking User Profiles
-![identity_config](./lab143_identity_configuration.png)
+![identity_config](./identity_configuration.png)
 
 ### Capstone Challenge Extraction: Persistent JSON File Creation Tracking Customer-Managed Policies
-![challenge_proof](./lab143_challenge_extraction.png)
+![challenge_proof](./challenge_extraction.png)

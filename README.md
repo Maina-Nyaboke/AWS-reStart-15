@@ -106,5 +106,10 @@ Welcome to my cloud computing and engineering showcase! This repository document
 
 
 
+### 🤖 Module 9: Tooling and Automation
+*Status: Active Focus*
+* ⚙️ [9.1 AWS Systems Manager](./9%20-%20Tooling%20and%20Automation/9.1%20AWS%20Systems%20Manager/) - Automating fleet inventories with Fleet Manager, executing remote application deployments via Run Commands, decoupling software variables using Parameter Store, and launching secure HTTPS browser-native terminal sessions via Session Manager.
+
+
 ---
 *Maintained by Maina Nyaboke • Aspiring AWS Cloud Professional*
