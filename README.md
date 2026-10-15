@@ -115,7 +115,7 @@ Welcome to my cloud computing and engineering showcase! This repository document
 ### 🗄️ Module 10: Servers
 *Status: Active Focus*
 * 🌐 [10.1 Static Website Hosting on S3](./10%20-%20Servers/10.1%20Static%20Website%20Hosting%20on%20S3/) - Creating serverless S3 storage web hosting partitions via the AWS CLI, configuring programmatic IAM access tokens, overriding public ACL permissions, and engineering delta-optimized bash synchronization scripts (`aws s3 sync`).
-
+* 💻 [10.2 Computing on AWS](./10%20-%20Servers/10.2%20Computing%20on%20AWS/) - Analyzing Nitro hypervisor virtualization, orchestrating automated instance provisioning via the AWS CLI, configuring bootstrapping `User Data` scripts, and mapping secure IMDSv2 metadata link-local channels.
 
 
 ---
