@@ -105,10 +105,17 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🛠️ [8.4 Installing and Configuring AWS CLI](./8%20-%20Systems%20Operations/8.4%20Installing%20&%20Configuring%20AWS%20CLI/) - Deploying AWS CLI v2 binaries onto Red Hat Linux kernels, initializing `aws configure` cryptographic key pairs, and programmatically extracting JSON IAM security policies.
 
 
-
 ### 🤖 Module 9: Tooling and Automation
-*Status: Active Focus*
+*Status: Completed*
 * ⚙️ [9.1 AWS Systems Manager](./9%20-%20Tooling%20and%20Automation/9.1%20AWS%20Systems%20Manager/) - Automating fleet inventories with Fleet Manager, executing remote application deployments via Run Commands, decoupling software variables using Parameter Store, and launching secure HTTPS browser-native terminal sessions via Session Manager.
+* 🛠️ [9.2 Administration & Development Tools](./9%20-%20Tooling%20and%20Automation/9.2%20Administration%20&%20Development%20Tools/) - Analyzing programmatic application SDK pipelines, implementing Infrastructure-as-Code (IaC) via declarative **AWS CloudFormation** stacks, and evaluating managed configuration servers via **AWS OpsWorks**.
+
+
+
+### 🗄️ Module 10: Servers
+*Status: Active Focus*
+* 🌐 [10.1 Static Website Hosting on S3](./10%20-%20Servers/10.1%20Static%20Website%20Hosting%20on%20S3/) - Creating serverless S3 storage web hosting partitions via the AWS CLI, configuring programmatic IAM access tokens, overriding public ACL permissions, and engineering delta-optimized bash synchronization scripts (`aws s3 sync`).
+
 
 
 ---
