@@ -6,7 +6,7 @@ Welcome to my cloud computing and engineering showcase! This repository document
 
 ### 📁 Module 1: Cloud Foundations
 *Status: Completed*
-* [01 - Cloud Foundations Folder](./01%20-%20Cloud%20Foundations/) - Complete architectural reference guide tracking computing concepts, agile roles, cloud economy advantages, global infrastructure regions/AZ topology layout, and foundational storage/compute layers (S3/EC2).
+* [1 - Cloud Foundations Folder](./01%20-%20Cloud%20Foundations/) - Complete architectural reference guide tracking computing concepts, agile roles, cloud economy advantages, global infrastructure regions/AZ topology layout, and foundational storage/compute layers (S3/EC2).
 
 
 ### 📁 Module 2: Linux
@@ -63,51 +63,51 @@ Welcome to my cloud computing and engineering showcase! This repository document
 
 ### 🐍 Module 5: Python 
 *Status: Completed*
-* 🔢 [5.1 Introduction to Python Programming](./5%20-%20Python%20Programming/5.1%20Introduction%20to%20Python%20Programming/) - Mastering Python 3 interpreters, handling dynamic string inputs, manipulating mutable/immutable collections, parsing tabular CSV data files, and engineering computational bioinformatics workflows to slice human insulin sequences.
-* ⚙️ [5.2 Python Programming Basics](./5%20-%20Python%20Programming/5.2%20Python%20Programming%20Basics/) - Standardizing interpreter syntax styles, mapping mutable vs immutable memory states, enforcing strict identifier filters, and analyzing the mathematical operator precedence priority matrix.
-* 🔀 [5.3 Python Flow Control](./5%20-%20Python%20Programming/5.3%20Python%20Flow%20Control/) - Implementing conditional decision routing blocks, developing event-driven `while` titration loops, and utilizing list comprehensions to calculate the chemical net charge of human insulin.
-* 🔐 [5.4 Python Programming Functions](./5%20-%20Python%20Programming/5.4%20Python%20Programming%20Functions/) - Designing modular, reusable user-defined software functions, decomposing script files, and implementing a programmatic Caesar Cipher transposition cryptographic engine.
-* 📦 [5.5 Python Modules & Libraries](./5%20-%20Python%20Programming/5.5%20Python%20Modules%20&%20Libraries/) - Designing custom decoupled code file handlers, implementing defensive `try/except` `IOError` exception boundaries, and parsing nested JSON data payloads into functional dictionary structures.
-* ⚙️ [5.6 Python System Administration](./5%20-%20Python%20Programming/5.6%20Python%20System%20Administration/) - Leveraging Python process abstraction libraries (`subprocess.run`), executing list-wrapped command parameters, and programmatically auditing Linux kernel states and active process logs.
-* 🐞 [5.7 Debugging and Testing](./5%20-%20Python%20Programming/5.7%20Debugging%20and%20Testing/) - Configuring dynamic runtime breakpoints, monitoring variable allocations via watch expressions, and executing headless command-line code triage via the standard `pdb` module.
-* 🚀 [5.8 DevOps & Continuous Integration](./5%20-%20Python%20Programming/5.8%20Python%20DevOps%20&%20Continuous%20Integration/) - Evaluating CI/CD pipeline lifecycles, mapping collaborative vs hierarchical corporate cultures, balancing automation limits, and defining the operational boundaries between automation and orchestration.
-* ⚙️ [5.9 Python Configuration Management](./5%20-%20Python%20Programming/5.9%20Python%20Configuration%20Management/) - Structural code organization blueprint design, separating project folder hierarchies, enforcing repository `.gitignore` security barriers, and managing accounting and versioning states.
-* 🧮 [Python Challenge](./5%20-%20Python%20Programming/Python%20Challenge/) - Developing prime number transposition filtering algorithms, configuring optimized square-root iteration boundary checks, and executing file output stream scripts on a remote EC2 server via SSH.
+* 🔢 [5.1 Introduction to Python Programming](./05%20-%20Python%20Programming/5.01%20Introduction%20to%20Python%20Programming/) - Mastering Python 3 interpreters, handling dynamic string inputs, manipulating mutable/immutable collections, parsing tabular CSV data files, and engineering computational bioinformatics workflows to slice human insulin sequences.
+* ⚙️ [5.2 Python Programming Basics](.05%20-%20Python%20Programming/5.02%20Python%20Programming%20Basics/) - Standardizing interpreter syntax styles, mapping mutable vs immutable memory states, enforcing strict identifier filters, and analyzing the mathematical operator precedence priority matrix.
+* 🔀 [5.3 Python Flow Control](./05%20-%20Python%20Programming/5.03%20Python%20Flow%20Control/) - Implementing conditional decision routing blocks, developing event-driven `while` titration loops, and utilizing list comprehensions to calculate the chemical net charge of human insulin.
+* 🔐 [5.4 Python Programming Functions](./05%20-%20Python%20Programming/5.04%20Python%20Programming%20Functions/) - Designing modular, reusable user-defined software functions, decomposing script files, and implementing a programmatic Caesar Cipher transposition cryptographic engine.
+* 📦 [5.5 Python Modules & Libraries](./05%20-%20Python%20Programming/5.05%20Python%20Modules%20&%20Libraries/) - Designing custom decoupled code file handlers, implementing defensive `try/except` `IOError` exception boundaries, and parsing nested JSON data payloads into functional dictionary structures.
+* ⚙️ [5.6 Python System Administration](./05%20-%20Python%20Programming/5.06%20Python%20System%20Administration/) - Leveraging Python process abstraction libraries (`subprocess.run`), executing list-wrapped command parameters, and programmatically auditing Linux kernel states and active process logs.
+* 🐞 [5.7 Debugging and Testing](./05%20-%20Python%20Programming/5.07%20Debugging%20and%20Testing/) - Configuring dynamic runtime breakpoints, monitoring variable allocations via watch expressions, and executing headless command-line code triage via the standard `pdb` module.
+* 🚀 [5.8 DevOps & Continuous Integration](./05%20-%20Python%20Programming/5.08%20Python%20DevOps%20&%20Continuous%20Integration/) - Evaluating CI/CD pipeline lifecycles, mapping collaborative vs hierarchical corporate cultures, balancing automation limits, and defining the operational boundaries between automation and orchestration.
+* ⚙️ [5.9 Python Configuration Management](./05%20-%20Python%20Programming/5.09%20Python%20Configuration%20Management/) - Structural code organization blueprint design, separating project folder hierarchies, enforcing repository `.gitignore` security barriers, and managing accounting and versioning states.
+* 🧮 [Python Challenge](./05%20-%20Python%20Programming/Python%20Challenge/) - Developing prime number transposition filtering algorithms, configuring optimized square-root iteration boundary checks, and executing file output stream scripts on a remote EC2 server via SSH.
 
 
 ### 🗄️ Module 6: Databases
 *Status: Completed*
-* 🏗️ [6.1 Introduction to Databases](./6%20-%20Databases/6.1%20Introduction%20to%20Databases) - Analyzing relational and non-relational database models, evaluating schema architectures, and parsing cloud-managed Database-as-a-Service (DBaaS) deployment advantages.
-* ✍️ [6.2 Data Interaction & Database Transaction](./6%20-%20Databases/6.2%20Data%20Interaction%20&%20Database%20Transaction) - Structuring client-server and multi-tier application data interaction paths and enforcing strict transactional ACID compliance guardrails across cloud networks.
-* 🏗️ [6.3 Creating Tables & Data Types](./6%20-%20Databases/6.3%20Creating%20Tables%20&%20Data%20Types/) - Designing data schemas via SQL Data Definition Language (DDL), enforcing column data types, mapping primary keys, and orchestrating table alter migrations.
-* ✍️ [6.4 Inserting Data into a Database](./6%20-%20Databases/6.4%20Inserting%20Data%20into%20a%20Database/) - Mastering Data Manipulation Language (DML), executing global state updates, applying deletion rollbacks, and automating mass dataset seeding using SQL ingestion pipelines.
-* 🔍 [6.5 Selecting Data](./6%20-%20Databases/6.5%20Selecting%20Data/) - Designing SQL search queries, implementing column data aliasing structures, executing multi-conditional `AND` logic filters, and sorting records via descending arrays.
-* 🎯 [6.6 Performing Conditional Search](./6%20-%20Databases/6.6%20Performing%20Conditional%20Search/) - Deploying advanced database search conditions, implementing inclusive `BETWEEN` ranges, engineering wildcard patterns using `LIKE`, and applying string case-flattening operations (`LOWER`).
-* 📊 [6.7 Working with Functions](./6%20-%20Databases/6.7%20Working%20with%20Functions/) - Executing mathematical aggregate functions, applying data de-duplication rules (`DISTINCT`), deploying text filters (`TRIM`, `LENGTH`), and engineering string splitting routines.
-* 📁 [6.8 Organizing Data](./6%20-%20Databases/6.8%20Organizing%20Data/) - Mastering data grouping metrics (`GROUP BY`), deploying advanced inline window calculations (`SUM OVER`), and computing partition rank indexes (`RANK OVER`).
-* 🖥️ [6.9 Retrieving Data](./6%20-%20Databases/6.9%20Retrieving%20Data/) - Architectural design of a three-tier cloud application web app, launching a Multi-AZ high-availability Amazon RDS MySQL database cluster, and hardening private network firewalls.
-* 🌌 [6.10 Amazon RDS](./6%20-%20Databases/6.10%20Amazon%20RDS/) - Provisioning cloud-native distributed Amazon Aurora clusters, decoupling compute and storage tiers, installing client dependencies (`mariadb`), and querying multi-AZ database backends.
-* ⚡ [6.11 Amazon DynamoDB](./6%20-%20Databases/6.11%20Amazon%20DynamoDB/) - Architecting serverless key-value document stores using Amazon DynamoDB, implementing composite partition keys, and auditing the performance differences between Indexed Queries and Table Scans.
-* 🏁 [6.12 Capstone Database Challenge](./6%20-%20Databases/6.12%20Capstone%20Database%20Challenge/) - Building an AWS-managed standalone Amazon RDS database instance, implementing relational primary/foreign key data schemas, seeding complex datasets, and writing horizontal `INNER JOIN` queries.
+* 🏗️ [6.1 Introduction to Databases](./06%20-%20Databases/6.01%20Introduction%20to%20Databases) - Analyzing relational and non-relational database models, evaluating schema architectures, and parsing cloud-managed Database-as-a-Service (DBaaS) deployment advantages.
+* ✍️ [6.2 Data Interaction & Database Transaction](./06%20-%20Databases/6.02%20Data%20Interaction%20&%20Database%20Transaction) - Structuring client-server and multi-tier application data interaction paths and enforcing strict transactional ACID compliance guardrails across cloud networks.
+* 🏗️ [6.3 Creating Tables & Data Types](./06%20-%20Databases/6.03%20Creating%20Tables%20&%20Data%20Types/) - Designing data schemas via SQL Data Definition Language (DDL), enforcing column data types, mapping primary keys, and orchestrating table alter migrations.
+* ✍️ [6.4 Inserting Data into a Database](./06%20-%20Databases/6.04%20Inserting%20Data%20into%20a%20Database/) - Mastering Data Manipulation Language (DML), executing global state updates, applying deletion rollbacks, and automating mass dataset seeding using SQL ingestion pipelines.
+* 🔍 [6.5 Selecting Data](./06%20-%20Databases/6.05%20Selecting%20Data/) - Designing SQL search queries, implementing column data aliasing structures, executing multi-conditional `AND` logic filters, and sorting records via descending arrays.
+* 🎯 [6.6 Performing Conditional Search](./06%20-%20Databases/6.06%20Performing%20Conditional%20Search/) - Deploying advanced database search conditions, implementing inclusive `BETWEEN` ranges, engineering wildcard patterns using `LIKE`, and applying string case-flattening operations (`LOWER`).
+* 📊 [6.7 Working with Functions](./06%20-%20Databases/6.07%20Working%20with%20Functions/) - Executing mathematical aggregate functions, applying data de-duplication rules (`DISTINCT`), deploying text filters (`TRIM`, `LENGTH`), and engineering string splitting routines.
+* 📁 [6.8 Organizing Data](./06%20-%20Databases/6.08%20Organizing%20Data/) - Mastering data grouping metrics (`GROUP BY`), deploying advanced inline window calculations (`SUM OVER`), and computing partition rank indexes (`RANK OVER`).
+* 🖥️ [6.9 Retrieving Data](./06%20-%20Databases/6.09%20Retrieving%20Data/) - Architectural design of a three-tier cloud application web app, launching a Multi-AZ high-availability Amazon RDS MySQL database cluster, and hardening private network firewalls.
+* 🌌 [6.10 Amazon RDS](./06%20-%20Databases/6.10%20Amazon%20RDS/) - Provisioning cloud-native distributed Amazon Aurora clusters, decoupling compute and storage tiers, installing client dependencies (`mariadb`), and querying multi-AZ database backends.
+* ⚡ [6.11 Amazon DynamoDB](./06%20-%20Databases/6.11%20Amazon%20DynamoDB/) - Architecting serverless key-value document stores using Amazon DynamoDB, implementing composite partition keys, and auditing the performance differences between Indexed Queries and Table Scans.
+* 🏁 [6.12 Capstone Database Challenge](./06%20-%20Databases/6.12%20Capstone%20Database%20Challenge/) - Building an AWS-managed standalone Amazon RDS database instance, implementing relational primary/foreign key data schemas, seeding complex datasets, and writing horizontal `INNER JOIN` queries.
 
 
 ### 🏗️ Module 7: AWS Architecture
 *Status: Completed*
-* 🏛️ [7 Architecture Design Frameworks](./7%20-%20AWS%20Architecture/) - Aligning business and technical domains via the AWS Cloud Adoption Framework (CAF), implementing the 6 Well-Architected Pillars, and structuring high-availability cloud migration topologies.
+* 🏛️ [7 Architecture Design Frameworks](./07%20-%20AWS%20Architecture/) - Aligning business and technical domains via the AWS Cloud Adoption Framework (CAF), implementing the 6 Well-Architected Pillars, and structuring high-availability cloud migration topologies.
 
 
 ### ⚙️ Module 8: Systems Operations
 *Status: Completed*
-* 🛠️ [8.1 System Operations on AWS](./8%20-%20Systems%20Operations/8.1%20System%20Operations%20on%20AWS/) - Analyzing the core lifecycle domains of SysOps (Build, Test, Deploy, Monitor, Maintain, Safeguard), evaluating cloud fleet automation benefits, and deploying structured troubleshooting knowledge bases.
-* 🔐 [8.2 AWS IAM Review](./8%20-%20Systems%20Operations/8.2%20AWS%20IAM%20Review/) - Auditing programmatic vs console access modes, evaluating identity-based, resource-based, and Service Control Policies (SCPs), and standardizing enterprise Identity Access best practices.
-* 💻 [8.3 AWS Command Line Interface](./8%20-%20Systems%20Operations/8.3%20AWS%20Command%20Line%20Interface/) - Configuring local CLI environments, running advanced `--filter` and `--query` JMESPath strings, and executing defensive `--dry-run` code deployment validations.
-* 🛠️ [8.4 Installing and Configuring AWS CLI](./8%20-%20Systems%20Operations/8.4%20Installing%20&%20Configuring%20AWS%20CLI/) - Deploying AWS CLI v2 binaries onto Red Hat Linux kernels, initializing `aws configure` cryptographic key pairs, and programmatically extracting JSON IAM security policies.
+* 🛠️ [8.1 System Operations on AWS](./08%20-%20Systems%20Operations/8.01%20System%20Operations%20on%20AWS/) - Analyzing the core lifecycle domains of SysOps (Build, Test, Deploy, Monitor, Maintain, Safeguard), evaluating cloud fleet automation benefits, and deploying structured troubleshooting knowledge bases.
+* 🔐 [8.2 AWS IAM Review](./08%20-%20Systems%20Operations/8.02%20AWS%20IAM%20Review/) - Auditing programmatic vs console access modes, evaluating identity-based, resource-based, and Service Control Policies (SCPs), and standardizing enterprise Identity Access best practices.
+* 💻 [8.3 AWS Command Line Interface](./08%20-%20Systems%20Operations/8.03%20AWS%20Command%20Line%20Interface/) - Configuring local CLI environments, running advanced `--filter` and `--query` JMESPath strings, and executing defensive `--dry-run` code deployment validations.
+* 🛠️ [8.4 Installing and Configuring AWS CLI](./08%20-%20Systems%20Operations/8.04%20Installing%20&%20Configuring%20AWS%20CLI/) - Deploying AWS CLI v2 binaries onto Red Hat Linux kernels, initializing `aws configure` cryptographic key pairs, and programmatically extracting JSON IAM security policies.
 
 
 ### 🤖 Module 9: Tooling and Automation
 *Status: Completed*
-* ⚙️ [9.1 AWS Systems Manager](./9%20-%20Tooling%20and%20Automation/9.1%20AWS%20Systems%20Manager/) - Automating fleet inventories with Fleet Manager, executing remote application deployments via Run Commands, decoupling software variables using Parameter Store, and launching secure HTTPS browser-native terminal sessions via Session Manager.
-* 🛠️ [9.2 Administration & Development Tools](./9%20-%20Tooling%20and%20Automation/9.2%20Administration%20&%20Development%20Tools/) - Analyzing programmatic application SDK pipelines, implementing Infrastructure-as-Code (IaC) via declarative **AWS CloudFormation** stacks, and evaluating managed configuration servers via **AWS OpsWorks**.
+* ⚙️ [9.1 AWS Systems Manager](./09%20-%20Tooling%20and%20Automation/9.01%20AWS%20Systems%20Manager/) - Automating fleet inventories with Fleet Manager, executing remote application deployments via Run Commands, decoupling software variables using Parameter Store, and launching secure HTTPS browser-native terminal sessions via Session Manager.
+* 🛠️ [9.2 Administration & Development Tools](./09%20-%20Tooling%20and%20Automation/9.02%20Administration%20&%20Development%20Tools/) - Analyzing programmatic application SDK pipelines, implementing Infrastructure-as-Code (IaC) via declarative **AWS CloudFormation** stacks, and evaluating managed configuration servers via **AWS OpsWorks**.
 
 
 
