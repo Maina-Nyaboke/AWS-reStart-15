@@ -122,4 +122,8 @@ Welcome to my cloud computing and engineering showcase! This repository document
 
 
 ---
+### 🚀 Module 11: Fleet Scaling & Name Resolution
+*Status: Active Focus*
+* ⚖️ [11.1 Elastic Load Balancing](./11%20-%20Scaling%20&%20Name%20Resolution/11.1%20Elastic%20Load%20Balancing/) - Designing high-availability traffic routing frameworks, evaluating vertical vs. horizontal scaling limits, and standardizing Layer 4 (Network) and Layer 7 (Application) load balancer matrices.
+
 *Maintained by Maina Nyaboke • Aspiring AWS Cloud Professional*
