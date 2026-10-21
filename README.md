@@ -126,5 +126,9 @@ Welcome to my cloud computing and engineering showcase! This repository document
 *Status: Active Focus*
 * ⚖️ [11.1 Elastic Load Balancing](./11%20-%20Scaling%20&%20Name%20Resolution/11.1%20Elastic%20Load%20Balancing/) - Designing high-availability traffic routing frameworks, evaluating vertical vs. horizontal scaling limits, and standardizing Layer 4 (Network) and Layer 7 (Application) load balancer matrices.
 * ⚙️ [11.2 Auto Scaling & Load Balancers](./11%20-%20Scaling%20&%20Name%20Resolution/11.2%20Auto%20Scaling%20&%20Load%20Balancers/) - Provisioning Application Load Balancers (ALBs), creating launch templates for private subnet fleet isolation, and configuring metric-driven CloudWatch alarms to automate horizontal scale-out loops.
+* 🧮 [11.3 Auto Scaling in AWS(Linux)](./11%20-%20Scaling%20&%20Name%20Resolution/11.3%20Autoscaling%20in%20AWS(Linux)/) - Automating golden AMI baking via the AWS CLI, configuring multi-AZ private subnet launch templates, and stress-testing infrastructure to trigger automated horizontal scale-out loops.
+* 🎛️ [11.4 Amazon EC2 Auto Scaling](./11%20-%20Scaling%20&%20Name%20Resolution/11.4%20Amazon%20EC2%20Auto%20Scaling/) - Mastering advanced fleet auto-scaling logic, evaluating scheduled, dynamic, and predictive scaling policies, and parsing algorithmic instance termination rules and lifecycle hooks.
+
+
 
 *Maintained by Maina Nyaboke • Aspiring AWS Cloud Professional*
