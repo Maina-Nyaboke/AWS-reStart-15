@@ -122,8 +122,9 @@ Welcome to my cloud computing and engineering showcase! This repository document
 
 
 ---
-### 🚀 Module 11: Fleet Scaling & Name Resolution
+### 🚀 Module 11: Scaling & Name Resolution
 *Status: Active Focus*
 * ⚖️ [11.1 Elastic Load Balancing](./11%20-%20Scaling%20&%20Name%20Resolution/11.1%20Elastic%20Load%20Balancing/) - Designing high-availability traffic routing frameworks, evaluating vertical vs. horizontal scaling limits, and standardizing Layer 4 (Network) and Layer 7 (Application) load balancer matrices.
+* ⚙️ [11.2 Auto Scaling & Load Balancers](./11%20-%20Scaling%20&%20Name%20Resolution/11.2%20Auto%20Scaling%20&%20Load%20Balancers/) - Provisioning Application Load Balancers (ALBs), creating launch templates for private subnet fleet isolation, and configuring metric-driven CloudWatch alarms to automate horizontal scale-out loops.
 
 *Maintained by Maina Nyaboke • Aspiring AWS Cloud Professional*
