@@ -119,7 +119,6 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🏁 [10.5 Capstone Compute Challenge](./10%20-%20Servers/10.5%20Capstone%20Compute%20Challenge/) - Engineering custom virtual private network (VPC) subnets and internet gateways from scratch, deploying automated compute nodes via user-data scripts, and publishing customized HTML applications.
 
 
----
 ### 🚀 Module 11: Scaling & Name Resolution
 *Status: Completed*
 * ⚖️ [11.1 Elastic Load Balancing](./11%20-%20Scaling%20&%20Name%20Resolution/11.1%20Elastic%20Load%20Balancing/) - Designing high-availability traffic routing frameworks, evaluating vertical vs. horizontal scaling limits, and standardizing Layer 4 (Network) and Layer 7 (Application) load balancer matrices.
@@ -134,7 +133,8 @@ Welcome to my cloud computing and engineering showcase! This repository document
 ### 📦 Module 12: Serverless & Containers
 *Status: Active Focus*
 * ⚡ [12.1 AWS Lambda](./12%20-%20Serveless%20&%20Containers/12.1%20AWS%20Lambda/) - Engineering decoupled serverless architectures with AWS Lambda, constructing reusable dependency layers (`pymysqlLibrary`), triaging private VPC database timeouts, and automating schedules via Amazon EventBridge Cron triggers.
+* 🗺️ [12.2 APIs and REST](./12%20-%20Serveless%20&%20Containers/12.2%20APIs%20and%20REST/) - Analyzing RESTful stateless architectural constraints, mapping HTTP request payload protocols (`GET`, `POST`, `PUT`, `DELETE`), and standardizing server-side transaction status codes.
 
 
-
+---
 *Maintained by Maina Nyaboke • Aspiring AWS Cloud Professional*
