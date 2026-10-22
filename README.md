@@ -134,6 +134,7 @@ Welcome to my cloud computing and engineering showcase! This repository document
 *Status: Active Focus*
 * ⚡ [12.1 AWS Lambda](./12%20-%20Serveless%20&%20Containers/12.1%20AWS%20Lambda/) - Engineering decoupled serverless architectures with AWS Lambda, constructing reusable dependency layers (`pymysqlLibrary`), triaging private VPC database timeouts, and automating schedules via Amazon EventBridge Cron triggers.
 * 🗺️ [12.2 APIs and REST](./12%20-%20Serveless%20&%20Containers/12.2%20APIs%20and%20REST/) - Analyzing RESTful stateless architectural constraints, mapping HTTP request payload protocols (`GET`, `POST`, `PUT`, `DELETE`), and standardizing server-side transaction status codes.
+* 🎛️ [12.3 Amazon API Gateway](./12%20-%20Serveless%20&%20Containers/12.3%20Amazon%20API%20Gateway/) - Engineering serverless front-door perimeters, configuring method execution request/response mappings, and managing traffic throttling and CORS security policies.
 
 
 ---
