@@ -9,6 +9,7 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * [1 - Cloud Foundations Folder](./01%20-%20Cloud%20Foundations/) - Complete architectural reference guide tracking computing concepts, agile roles, cloud economy advantages, global infrastructure regions/AZ topology layout, and foundational storage/compute layers (S3/EC2).
 
 
+
 ### 📁 Module 2: Linux
 *Status: Completed*
 * 🐧 [2.1 Introduction to Linux](./02%20-%20Linux/2.01%20Introduction%20to%20Linux/) - Foundational operating system mechanics, secure OpenSSH connections (`chmod 400`), and navigating the manual help pages.
@@ -30,7 +31,6 @@ Welcome to my cloud computing and engineering showcase! This repository document
 
 ### 📁 Module 3: Networking
 *Status: Completed*
-
 * 🌐 [3.1 Introduction to Networking](./03%20-%20Networking/3.01%20Introduction%20to%20Networking) - Analyzing the 7-Layer OSI model reference framework, tracking raw bit encapsulations, and mapping physical hardware switches and routers.
 * 🌐 [3.2 Networking Concepts](./03%20-%20Networking/3.02%20Networking%20Concepts) - Evaluating physical network topologies (Star, Mesh, Ring), monitoring network management operations, and deconstructing foundational communication protocols (`TCP/UDP`, `DNS`, `DHCP`).
 * 🛠️ [3.3 Internet Protocol](./03%20-%20Networking/3.03%20Internet%20Protocol/) - Understanding Public vs Private IP Behavior: Diagnosing internet connectivity boundaries and observing successful vs timed-out inbound OpenSSH handshake logs.
@@ -110,7 +110,6 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🛠️ [9.2 Administration & Development Tools](./09%20-%20Tooling%20and%20Automation/9.02%20Administration%20&%20Development%20Tools/) - Analyzing programmatic application SDK pipelines, implementing Infrastructure-as-Code (IaC) via declarative **AWS CloudFormation** stacks, and evaluating managed configuration servers via **AWS OpsWorks**.
 
 
-
 ### 🗄️ Module 10: Servers
 *Status: Completed*
 * 🌐 [10.1 Static Website Hosting on S3](./10%20-%20Servers/10.1%20Static%20Website%20Hosting%20on%20S3/) - Creating serverless S3 storage web hosting partitions via the AWS CLI, configuring programmatic IAM access tokens, overriding public ACL permissions, and engineering delta-optimized bash synchronization scripts (`aws s3 sync`).
@@ -118,7 +117,6 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🛠️ [10.3 Managing AWS EC2 Instances](./10%20-%20Servers/10.3%20Managing%20AWS%20EC2%20Instances/) - Designing secure Bastion host perimeters, automating cloud-fleet compute provisioning via terminal scripts, and resolving network firewall and system daemon failures.
 * 🧮 [10.4 AWS Elastic Beanstalk](./10%20-%20Servers/10.4%20AWS%20Elastic%20Beanstalk/) - Evaluating platform-as-a-service (PaaS) optimization strategies, debugging region-bound AMI variables inside shell scripts, and analyzing kernel initialization traces (`cloud-init-output.log`).
 * 🏁 [10.5 Capstone Compute Challenge](./10%20-%20Servers/10.5%20Capstone%20Compute%20Challenge/) - Engineering custom virtual private network (VPC) subnets and internet gateways from scratch, deploying automated compute nodes via user-data scripts, and publishing customized HTML applications.
-
 
 
 ---
@@ -131,6 +129,11 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🌐 [11.5 Amazon Route 53](./11%20-%20Scaling%20&%20Name%20Resolution/11.5%20Amazon%20Route%2053/) - Mastering cloud domain name services (DNS), configuring alias record handshakes with Elastic Load Balancers, and implementing active-passive failover and latency-based traffic routing.
 * 🌐 [11.6 Amazon CloudFront](./11%20-%20Scaling%20&%20Name%20Resolution/11.6%20Amazon%20CloudFront/) - Architecting global Content Delivery Networks (CDNs), configuring multi-tier caching matrices (Origins, Regional Caches, Edge Locations), and optimizing Data Transfer Out (DTO) costs [1.3].
 * 🌐 [11.7 Amazon Route 53](./11%20-%20Scaling%20&%20Name%20Resolution/11.7%20Route%2053%20Failover%20Routing/) - Designing high-availability active-passive DNS failover architectures, engineering fast-interval HTTP endpoint health probes, and configuring Amazon SNS alarm notifications.
+
+
+### 📦 Module 12: Serverless & Containers
+*Status: Active Focus*
+* ⚡ [12.1 AWS Lambda](./12%20-%20Serveless%20&%20Containers/12.1%20AWS%20Lambda/) - Engineering decoupled serverless architectures with AWS Lambda, constructing reusable dependency layers (`pymysqlLibrary`), triaging private VPC database timeouts, and automating schedules via Amazon EventBridge Cron triggers.
 
 
 
