@@ -1,0 +1,54 @@
+{
+    "Comment": "Enterprise E-Commerce Order Processing Workflow Lifecycle",
+    "StartAt": "ProcessPayment",
+    "States": {
+        "ProcessPayment": {
+            "Type": "Task",
+            "Resource": "arn:aws:lambda:us-west-2:123456789012:function:ProcessPaymentFunction",
+            "Catch": [
+                {
+                    "ErrorEquals": [
+                        "PaymentFailedException"
+                    ],
+                    "Next": "HandlePaymentFailure"
+                }
+            ],
+            "Next": "CheckInventory"
+        },
+        "CheckInventory": {
+            "Type": "Choice",
+            "Choices": [
+                {
+                    "Variable": "$.inventoryStatus",
+                    "StringEquals": "IN_STOCK",
+                    "Next": "ShipOrder"
+                }
+            ],
+            "Default": "RefundPayment"
+        },
+        "ShipOrder": {
+            "Type": "Task",
+            "Resource": "arn:aws:lambda:us-west-2:123456789012:function:ShipOrderFunction",
+            "End": true
+        },
+        "RefundPayment": {
+            "Type": "Task",
+            "Resource": "arn:aws:lambda:us-west-2:123456789012:function:RefundPaymentFunction",
+            "Next": "NotifyCustomerOutOfStock"
+        },
+        "HandlePaymentFailure": {
+            "Type": "Task",
+            "Resource": "arn:aws:lambda:us-west-2:123456789012:function:NotifyPaymentFailureFunction",
+            "End": true
+        },
+        "NotifyCustomerOutOfStock": {
+            "Type": "Task",
+            "Resource": "arn:aws:sns:us-west-2:123456789012:Publish",
+            "Parameters": {
+                "TopicArn": "arn:aws:sns:us-west-2:123456789012:OutOfStockTopic",
+                "Message": "Order cancelled due to stock unavailability. Refund processed."
+            },
+            "End": true
+        }
+    }
+}
