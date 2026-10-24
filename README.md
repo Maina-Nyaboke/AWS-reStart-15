@@ -131,11 +131,13 @@ Welcome to my cloud computing and engineering showcase! This repository document
 
 
 ### 📦 Module 12: Serverless & Containers
-*Status: Active Focus*
+*Status: Completed*
 * ⚡ [12.1 AWS Lambda](./12%20-%20Serveless%20&%20Containers/12.1%20AWS%20Lambda/) - Engineering decoupled serverless architectures with AWS Lambda, constructing reusable dependency layers (`pymysqlLibrary`), triaging private VPC database timeouts, and automating schedules via Amazon EventBridge Cron triggers.
 * 🗺️ [12.2 APIs and REST](./12%20-%20Serveless%20&%20Containers/12.2%20APIs%20and%20REST/) - Analyzing RESTful stateless architectural constraints, mapping HTTP request payload protocols (`GET`, `POST`, `PUT`, `DELETE`), and standardizing server-side transaction status codes.
 * 🎛️ [12.3 Amazon API Gateway](./12%20-%20Serveless%20&%20Containers/12.3%20Amazon%20API%20Gateway/) - Engineering serverless front-door perimeters, configuring method execution request/response mappings, and managing traffic throttling and CORS security policies.
 * 🧮 [12.4 AWS Step Functions](./12%20-%20Serveless%20&%20Containers/12.4%20Amazon%20Step%20Functions/) - Designing serverless state machine visual workflows using Amazon States Language (ASL), implementing task, choice, and parallel state states, and configuring automated catch/retry error handling boundaries.
 * 🐳 [12.5 Containers on AWS](./12%20-%20Serveless%20&%20Containers/12.5%20Containers%20on%20AWS/) - Packaging microservice runtimes via customized multi-stage Dockerfiles, managing images inside Amazon ECR repositories, and orchestrating serverless container deployments using Amazon ECS and AWS Fargate [1.3].
+* 🏁 [12.6 Capstone Lambda Challenge](./12%20-%20Serveless%20&%20Containers/12.6%20Capstone%20Lambda%20Challenge/) - Architecting an automated event-driven file analysis pipeline, configuring S3 buckets as asynchronous compute triggers, programming parsing engines via the `boto3` SDK, and establishing decoupled email alerts via Amazon SNS topics.
+
 
 *Maintained by Maina Nyaboke • Aspiring AWS Cloud Professional*
