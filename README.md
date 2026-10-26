@@ -145,6 +145,7 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 📊 [13.1 Introduction to Databases on AWS](./13%20-%20AWS%20Database%20Services/13.1%20Introduction%20to%20Databases%20on%20AWS/) - Analyzing on-premises database scaling challenges, evaluating managed vs. unmanaged cloud responsibility boundaries, and standardizing enterprise workload selection matrices for SQL and NoSQL database engines [1.1].
 * 📊 [13.2 Amazon Redshift](./13%20-%20AWS%20Database%20Services/13.2%20Amazon%20Redshift/) - Designing Online Analytical Processing (OLAP) pipelines, evaluating columnar storage memory mechanics, and structuring Massively Parallel Processing (MPP) data warehouse clusters via Amazon Redshift.
 * 📊 [13.3 Amazon Aurora](./13%20-%20AWS%20Database%20Services/13.3%20Amazon%20Aurora/) - Mastering cloud-native database clustering, evaluating storage-compute decoupling mechanics, and implementing Writer/Reader endpoints with multi-AZ 6-way storage replication via Amazon Aurora [1.1].
+* 📊 [13.4 AWS Database Migration Service](./13%20-%20AWS%20Database%20Services/13.4%20AWS%20Database%20Migration%20Service/) - Orchestrating homogeneous and heterogeneous cloud data migrations, utilizing the AWS Schema Conversion Tool (SCT), and provisioning AWS DMS replication instances for zero-downtime continuous delta synchronization (CDC) [1.1].
 
 ---
 *Maintained by Maina Nyaboke • Aspiring AWS Cloud Professional*
