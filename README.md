@@ -140,4 +140,10 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🏁 [12.6 Capstone Lambda Challenge](./12%20-%20Serveless%20&%20Containers/12.6%20Capstone%20Lambda%20Challenge/) - Architecting an automated event-driven file analysis pipeline, configuring S3 buckets as asynchronous compute triggers, programming parsing engines via the `boto3` SDK, and establishing decoupled email alerts via Amazon SNS topics.
 
 
+### 🗄️ Module 13: AWS Database Services 
+*Status: Active Focus*
+* 📊 [13.1 Introduction to Databases on AWS](./13%20-%20AWS%20Database%20Services/13.1%20Introduction%20to%20Databases%20on%20AWS/) - Analyzing on-premises database scaling challenges, evaluating managed vs. unmanaged cloud responsibility boundaries, and standardizing enterprise workload selection matrices for SQL and NoSQL database engines [1.1].
+* 📊 [13.2 Amazon Redshift](./13%20-%20AWS%20Database%20Services/13.2%20Amazon%20Redshift/) - Designing Online Analytical Processing (OLAP) pipelines, evaluating columnar storage memory mechanics, and structuring Massively Parallel Processing (MPP) data warehouse clusters via Amazon Redshift.
+
+---
 *Maintained by Maina Nyaboke • Aspiring AWS Cloud Professional*
