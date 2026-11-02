@@ -148,5 +148,17 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 📊 [13.4 AWS Database Migration Service](./13%20-%20AWS%20Database%20Services/13.4%20AWS%20Database%20Migration%20Service/) - Orchestrating homogeneous and heterogeneous cloud data migrations, utilizing the AWS Schema Conversion Tool (SCT), and provisioning AWS DMS replication instances for zero-downtime continuous delta synchronization (CDC) [1.1].
 * 📊 [13.5 Migrating to Amazon RDS](./13%20-%20AWS%20Database%20Services/13.5%20Migrating%20to%20Amazon%20RDS/) - Provisioning isolated multi-AZ database networks via the AWS CLI, executing logical storage backups (`mysqldump`), downloading SSL truststore packages, and managing dynamic parameter-driven database cutovers via AWS Systems Manager [1.1].
 
+
+
+### 🌐 Module 14: AWS Networking Services
+*Status: Completed*
+* 🗺️ [14.1 AWS VPC](./14%20-%20AWS%20Networking%20Services/14.1%20AWS%20VPC/) - Mastering cloud network engineering, designing custom VPC CIDR block partition frameworks, auditing the 5 immutable AWS reserved IP constraints, and standardizing public/private subnet routing tables.
+* 🧮 [14.2 VPC Connectivity Options](./14%20-%20AWS%20Networking%20Services/14.2%20VPC%20Connectivity%20Options/) - Designing network address translation (NAT) gateway architectures, implementing inter-VPC peering, configuring secure AWS PrivateLink endpoints, and standardizing enterprise hub-and-spoke Transit Gateways [1.1, 1.3].
+* 🛡️ [14.3 Securing and Troubleshooting Network](./14%20-%20AWS%20Networking%20Services/14.3%20Securing%20and%20Troubleshooting%20Network/) - Standardizing layered network defenses via stateful Security Groups and stateless Network ACLs, engineering Bastion perimeters, and applying forensic Root-Cause Analysis (RCA) lifecycles to debug connectivity faults [1.1].
+* 🗺️ [14.4 Configuring Amazon VPC](./14%20-%20AWS%20Networking%20Services/14.4%20Configuring%20Amazon%20VPC/) - Engineering custom multi-subnet VPC architectures, configuring public route table internet gateways, deploying asymmetric NAT gateways, and executing secure proxy Bastion host cross-zone jumps.
+* 🛡️ [14.5 Troubleshooting a VPC](./14%20-%20AWS%20Networking%20Services/14.5%20Troubleshooting%20a%20VPC/) - Provisioning VPC Flow Logs streaming to S3 buckets, diagnosing route table missing links via the AWS CLI, purging blocking stateless NACL rules, and parsing compressed log archives via advanced Unix regex commands (`grep`, `gunzip`).
+
+
+
 ---
 *Maintained by Maina Nyaboke • Aspiring AWS Cloud Professional*
