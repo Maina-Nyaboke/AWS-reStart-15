@@ -1,0 +1,20 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "EnforceRegulatoryWORMCompliance",
+      "Effect": "Deny",
+      "Principal": "*",
+      "Action": [
+        "glacier:DeleteArchive",
+        "glacier:InitiateJob"
+      ],
+      "Resource": "arn:aws:glacier:us-west-2:123456789012:vaults/corporate-financial-records-vault",
+      "Condition": {
+        "NumericLessThan": {
+          "glacier:ArchiveAgeInDays": "2555"
+        }
+      }
+    }
+  ]
+}

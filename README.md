@@ -160,5 +160,20 @@ Welcome to my cloud computing and engineering showcase! This repository document
 
 
 
+### 🗄️ Module 15: Storage and Archiving & Global Lifecycle Optimization
+*Status: Completed*
+* 📊 [15.1 Cloud Storage Architecture](./15%20-%20Storage%20and%20Archiving/15.01%20Cloud%20Storage%20Overview/) - Mastering cloud storage governance, evaluating structural differences across Object (S3), File (EFS), and Block (EBS) data storage formatting, and defining hybrid edge computing environments [1.1].
+* 🧱 [15.2 Amazon EBS](./15%20-%20Storage%20and%20Archiving/15.02%20Amazon%20EBS/) - Formatting and mounting raw EBS block volumes to Linux kernels (`ext3`), configuring persistent mount configurations inside `/etc/fstab`, and executing point-in-time incremental snapshot data restorations.
+* ⚡ [15.3 Instance Store](./15%20-%20Storage%20and%20Archiving/15.03%20Instance%20Store/) - Evaluating physically attached local block drives, analyzing the constraints of data volatility during instance stops, and standardizing high-frequency caching architectures.
+* 📂 [15.4 Amazon EFS](./15%20-%20Storage%20and%20Archiving/15.04%20Amazon%20EFS/) - Architecting serverless shared network file systems via Amazon EFS, configuring multi-AZ subnet mount targets over NFSv4 (Port 2049), and implementing elastic multi-instance concurrent file modifications [1.1].
+* 🌐 [15.5 Storage with Amazon S3](./15%20-%20Storage%20and%20Archiving/15.05%20Storage%20with%20Amazon%20S3/) - Architecting enterprise object storage environments via Amazon S3, configuring declarative JSON lifecycle tiering rules, implementing object Versioning state machines, and standardizing WORM compliance **Object Locks**.
+* 🗄️ [15.6 Amazon S3 Glacier](./15%20-%20Storage%20and%20Archiving/15.06%20Amazon%20S3%20Glacier/) - Mastering enterprise cold-storage archiving architectures, configuring asynchronous data retrieval lifecycle jobs, implementing Amazon SNS notifications, and standardizing immutable WORM **Glacier Vault Locks** [1.1].
+* 📊 [15.7 Managing Storage](./15%20-%20Storage%20and%20Archiving/15.07%20Managing%20Storage/) - Automating volume snapshots via Linux Cron systems, implementing Python retention pruning scripts, managing delta file mirror synchronization (`aws s3 sync --delete`), and recovering assets via S3 object versioning ledgers.
+* 📊 [15.8 Hybrid Storage - Storage Gateway](./15%20-%20Storage%20and%20Archiving/15.08%20AWS%20Storage%20Gateway/) - Engineering corporate hybrid architectures, deploying software-defined storage gateways to translate local protocols (NFS, SMB, iSCSI), and standardizing File, Volume, and Tape gateway pipelines [1.1].
+* 📊 [15.9 Automated S3 Event Notifications](./15%20-%20Storage%20and%20Archiving/15.09%20Automated%20S3%20Event%20Notifications/) - Configuring programmatic multi-user prefix security controls, modifying cross-service SNS access policies, and deploying declarative JSON manifests to trigger real-time asynchronous email alerts (`s3:ObjectCreated`).
+* 🏁 [15.10 Capstone S3 Challenge](./15%20-%20Storage%20and%20Archiving/15.10%20Capstone%20S3%20Challenge/) - Engineering custom S3 storage bucket containers via the AWS CLI, overriding default cloud privacy settings, applying public-read Access Control Lists (ACLs) to serve assets over the web, and running programmatic terminal inventory audits [1.1].
+* 🔮 [15.11 Hybrid Migration - Transfer Family](./15%20-%20Storage%20and%20Archiving/15.11%20Hybrid%20Migration%20-%20Transfer%20Family/) - Orchestrating enterprise cloud data migrations, implementing AWS Transfer for SFTP endpoints into S3, managing automated AWS DataSync SHA-256 sync pipelines, and standardizing petabyte-scale offline **AWS Snow Family** architectures [1.1, 1.3].
+
+
 ---
 *Maintained by Maina Nyaboke • Aspiring AWS Cloud Professional*
