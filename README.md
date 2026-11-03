@@ -183,6 +183,18 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 🗺️ [16.4 Incident Response - CloudTrail](./16%20-%20Monitoring%20&%20Security/16.4%20Incident%20Response%20-%20Cloud%20Trail/) - Configuring multi-region AWS CloudTrail auditing trails, engineering relational Amazon Athena SQL schemas to isolate active security threats, terminating malicious OS processes, and hardening Linux SSH kernel parameters (`sshd_config`).
 
 
+### 🗄️ Module 17: Managing Resources Consumption
+*Status: Completed*
+* 🗄️ [17.1 AWS Organizations](./17%20-%20Managing%20Resources%20Consumption/17.1%20AWS%20Organizations/) - Designing enterprise multi-account landing zones, structuring Organizational Unit (OU) taxonomies, and engineering immutable security guardrails via Service Control Policies (SCPs) [16.4].
+* 🏷️ [17.2 Tagging](./17%20-%20Managing%20Resources%20Consumption/17.2%20Tagging/) - Mastering advanced JMESPath CLI filtering syntax, building batch metadata modification shell scripts, deploying automated PHP SDK Stopinators, and engineering "Tag-or-Terminate" compliance scripts.
+* 📊 [17.3 AWS Cost Management & Best Practices](./17%20-%20Managing%20Resources%20Consumption/17.3%20AWS%20Cost%20Management%20&%20Best%20Practices/) - Analyzing cloud OpEx consumption benefits, configuring proactive cost tracking via AWS Budgets, engineering serverless Lambda EventBridge stopinators, and implementing **AWS Trusted Advisor** cost-optimization right-sizing models [17.1].
+* 📊 [17.4 AWS Support Services](./17%20-%20Managing%20Resources%20Consumption/17.4%20AWS%20Support%20Services/) - Standardizing cloud operational risk mitigation, evaluating Developer, Business, and Enterprise support tier SLAs, analyzing Technical Account Manager (TAM) duties, and grounding systems design in official AWS Whitepapers [1.1].
+* 🏁 [17.5 Cost Optimization & Sizing](./17%20-%20Managing%20Resources%20Consumption/17.5%20Cost%20Optimization%20&%20Sizing/) - Decommissioning local relational server binaries, right-sizing virtual compute attributes via the AWS CLI (`t3.small` to `t3.micro`), and constructing comparative financial TCO models using the AWS Pricing Calculator [16.4].
+
+
+
+
+
 
 ---
 *Maintained by Maina Nyaboke • Aspiring AWS Cloud Professional*

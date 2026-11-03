@@ -1,0 +1,24 @@
+{
+  "EnterpriseSupportSLA": {
+    "TargetAccountType": "Production Core Ingestion Mesh",
+    "SeverityLevels": [
+      {
+        "Classification": "Critical - Business-Critical System Down",
+        "TargetResponseTime": "LessThan15Minutes",
+        "AssignedExpert": "Technical Account Manager (TAM) / Support Engineer",
+        "IncidentMitigationPattern": "24x7 Continuous Active Phone and Chat Escalation"
+      },
+      {
+        "Classification": "Urgent - Production System Disrupted",
+        "TargetResponseTime": "LessThan1Hour",
+        "AssignedExpert": "Cloud Support Engineer",
+        "IncidentMitigationPattern": "24x7 Web Terminal Case Queue Routing"
+      }
+    ],
+    "ArchitecturalAdvisoryPrograms": [
+      "Infrastructure Event Management (IEM)",
+      "AWS Well-Architected Review (WAR)",
+      "AWS Trusted Advisor Full Core Inspection Checks"
+    ]
+  }
+}
