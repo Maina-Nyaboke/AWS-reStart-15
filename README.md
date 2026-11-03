@@ -160,7 +160,7 @@ Welcome to my cloud computing and engineering showcase! This repository document
 
 
 
-### 🗄️ Module 15: Storage and Archiving & Global Lifecycle Optimization
+### 🗄️ Module 15: Storage and Archiving
 *Status: Completed*
 * 📊 [15.1 Cloud Storage Architecture](./15%20-%20Storage%20and%20Archiving/15.01%20Cloud%20Storage%20Overview/) - Mastering cloud storage governance, evaluating structural differences across Object (S3), File (EFS), and Block (EBS) data storage formatting, and defining hybrid edge computing environments [1.1].
 * 🧱 [15.2 Amazon EBS](./15%20-%20Storage%20and%20Archiving/15.02%20Amazon%20EBS/) - Formatting and mounting raw EBS block volumes to Linux kernels (`ext3`), configuring persistent mount configurations inside `/etc/fstab`, and executing point-in-time incremental snapshot data restorations.
@@ -173,6 +173,15 @@ Welcome to my cloud computing and engineering showcase! This repository document
 * 📊 [15.9 Automated S3 Event Notifications](./15%20-%20Storage%20and%20Archiving/15.09%20Automated%20S3%20Event%20Notifications/) - Configuring programmatic multi-user prefix security controls, modifying cross-service SNS access policies, and deploying declarative JSON manifests to trigger real-time asynchronous email alerts (`s3:ObjectCreated`).
 * 🏁 [15.10 Capstone S3 Challenge](./15%20-%20Storage%20and%20Archiving/15.10%20Capstone%20S3%20Challenge/) - Engineering custom S3 storage bucket containers via the AWS CLI, overriding default cloud privacy settings, applying public-read Access Control Lists (ACLs) to serve assets over the web, and running programmatic terminal inventory audits [1.1].
 * 🔮 [15.11 Hybrid Migration - Transfer Family](./15%20-%20Storage%20and%20Archiving/15.11%20Hybrid%20Migration%20-%20Transfer%20Family/) - Orchestrating enterprise cloud data migrations, implementing AWS Transfer for SFTP endpoints into S3, managing automated AWS DataSync SHA-256 sync pipelines, and standardizing petabyte-scale offline **AWS Snow Family** architectures [1.1, 1.3].
+
+
+### 🚨 Module 16: Monitoring & Security
+*Status: Completed*
+* 📊 [16.1 CloudWatch Alarm](./16%20-%20Monitoring%20&%20Security/16.1%20Amazon%20ClooudWatch/) - Mastering cloud infrastructure observability, evaluating standard hypervisor variables vs. custom OS performance metrics, and engineering automated self-healing alarm mitigation actions.
+* 📊 [16.2 Logs and Events](./16%20-%20Monitoring%20&%20Security/16.2%20Logs%20and%20Events/) - Deploying unified CloudWatch Log Agents via Systems Manager, building regex metric filters to capture application errors, structuring EventBridge state-change notifications, and auditing account architectures using **AWS Config** rules.
+* 🗺️ [16.3 AWS CloudTrail & Amazon Athena](./16%20-%20Monitoring%20&%20Security/16.3%20AWS%20CloudTrail%20&%20Amazon%20Athena/) - Architecting enterprise audit ledgers via AWS CloudTrail trails, analyzing JSON `requestParameters` and `responseElements` attributes, and running serverless SQL threat hunting loops using Amazon Athena over S3 log data lakes [1.1, 1.3].
+* 🗺️ [16.4 Incident Response - CloudTrail](./16%20-%20Monitoring%20&%20Security/16.4%20Incident%20Response%20-%20Cloud%20Trail/) - Configuring multi-region AWS CloudTrail auditing trails, engineering relational Amazon Athena SQL schemas to isolate active security threats, terminating malicious OS processes, and hardening Linux SSH kernel parameters (`sshd_config`).
+
 
 
 ---
