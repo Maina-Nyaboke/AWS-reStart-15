@@ -1,0 +1,30 @@
+{
+  "LaunchTemplateName": "Enterprise-Production-Web-Template",
+  "VersionDescription": "v2-Optimized-PHP-Apache-Stack",
+  "LaunchTemplateData": {
+    "ImageId": "ami-0abcdef1234567890",
+    "InstanceType": "t3.micro",
+    "KeyName": "production-core-ssh-key",
+    "SecurityGroupIds": [
+      "sg-0123456789abcdef0"
+    ],
+    "BlockDeviceMappings": [
+      {
+        "DeviceName": "/dev/xvda",
+        "Ebs": {
+          "VolumeSize": 20,
+          "VolumeType": "gp3",
+          "Encrypted": true
+        }
+      }
+    ],
+    "NetworkInterfaces": [
+      {
+        "DeviceIndex": 0,
+        "AssociatePublicIpAddress": true,
+        "DeleteOnTermination": true
+      }
+    ],
+    "UserData": "IyEvYmluL2Jhc2gKeXVtIHVwZGF0ZSAteQp5dW0gaW5zdGFsbCAteSBodHRwZApzeXN0ZW1jdGwgZW5hYmxlIGh0dHBkCnN5c3RlbWN0bCBzdGFydCBodHRwZA=="
+  }
+}

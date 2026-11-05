@@ -1,0 +1,33 @@
+{
+  "builders": [
+    {
+      "type": "amazon-ebs",
+      "region": "us-west-2",
+      "source_ami_filter": {
+        "filters": {
+          "virtualization-type": "hvm",
+          "name": "amzn2-ami-hvm-x86_64-gp2",
+          "root-device-type": "ebs"
+        },
+        "owners": ["amazon"],
+        "most_recent": true
+      },
+      "instance_type": "t3.micro",
+      "ssh_username": "ec2-user",
+      "ami_name": "golden-linux-web-baseline-{{timestamp}}",
+      "ami_description": "Production-hardened Amazon Linux 2 golden image with pre-compiled web binaries"
+    }
+  ],
+  "provisioners": [
+    {
+      "type": "shell",
+      "inline": [
+        "sudo yum update -y",
+        "sudo yum install -y httpd php php-mysqlnd",
+        "sudo systemctl enable httpd",
+        "sudo rm -f /home/ec2-user/.ssh/authorized_keys",
+        "sudo rm -f /root/.ssh/authorized_keys"
+      ]
+    }
+  ]
+}

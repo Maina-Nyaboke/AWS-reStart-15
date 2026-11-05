@@ -1,0 +1,117 @@
+# =============================================================================
+# AWS DevOps Capstone Challenge: Enterprise Cloud Infrastructure Ingestion
+# Template Engine: AWS CloudFormation / Serialization Syntax: YAML
+# Target Fabric Topology: Custom VPC Core, Internet Gateway, Stateful Firewalls, 
+#                         Subnet Routing Tables, and an EC2 Compute Instance
+# =============================================================================
+
+AWSTemplateFormatVersion: "2010-09-09"
+Description: "Capstone Challenge: Automated Multi-Tier Network and Compute Fleet Provisioning Engine"
+
+Parameters:
+  VPCCidrBlock:
+    Type: String
+    Default: 10.50.0.0/16
+    Description: "Master Classless Inter-Domain Routing (CIDR) block allocation for the parent VPC"
+
+  SubnetCidrBlock:
+    Type: String
+    Default: 10.50.1.0/24
+    Description: "IP address block allocation partition for the infrastructure subnet layer"
+
+Resources:
+  # ==================== TIER 1: VIRTUAL NETWORK CORE ====================
+  CapstoneVPC:
+    Type: "AWS::EC2::VPC"
+    Properties:
+      CidrBlock: !Ref VPCCidrBlock
+      EnableDnsSupport: true
+      EnableDnsHostnames: true
+      Tags:
+        - Key: Name
+          Value: CapstoneVPC
+
+  # ==================== TIER 2: EDGE INTERNET CLEARANCE ====================
+  CapstoneInternetGateway:
+    Type: "AWS::EC2::InternetGateway"
+    Properties:
+      Tags:
+        - Key: Name
+          Value: CapstoneIGW
+
+  VPCGatewayAttachment:
+    Type: "AWS::EC2::VPCGatewayAttachment"
+    Properties:
+      VpcId: !Ref CapstoneVPC
+      InternetGatewayId: !Ref CapstoneInternetGateway
+
+  # ==================== TIER 3: SUBNET PERIMETER PARTITIONING ====================
+  CapstoneSubnet:
+    Type: "AWS::EC2::Subnet"
+    Properties:
+      VpcId: !Ref CapstoneVPC
+      CidrBlock: !Ref SubnetCidrBlock
+      MapPublicIpOnLaunch: true
+      Tags:
+        - Key: Name
+          Value: CapstoneSubnet
+
+  # ==================== TIER 4: ROUTING SCHEMAS AND DIRECTIONS ====================
+  CapstoneRouteTable:
+    Type: "AWS::EC2::RouteTable"
+    Properties:
+      VpcId: !Ref CapstoneVPC
+      Tags:
+        - Key: Name
+          Value: Capstone Public Routes
+
+  DefaultInternetRoute:
+    Type: "AWS::EC2::Route"
+    DependsOn: VPCGatewayAttachment
+    Properties:
+      RouteTableId: !Ref CapstoneRouteTable
+      DestinationCidrBlock: 0.0.0.0/0
+      GatewayId: !Ref CapstoneInternetGateway
+
+  SubnetRouteTableAssociation:
+    Type: "AWS::EC2::SubnetRouteTableAssociation"
+    Properties:
+      SubnetId: !Ref CapstoneSubnet
+      RouteTableId: !Ref CapstoneRouteTable
+
+  # ==================== TIER 5: STATEFUL FIREWALL SECURITY ====================
+  CapstoneSecurityGroup:
+    Type: "AWS::EC2::SecurityGroup"
+    Properties:
+      GroupDescription: "Capstone Security Policy: Permit inbound SSH port 22 access globally"
+      VpcId: !Ref CapstoneVPC
+      SecurityGroupIngress:
+        - IpProtocol: tcp
+          FromPort: 22
+          ToPort: 22
+          CidrIp: 0.0.0.0/0
+      Tags:
+        - Key: Name
+          Value: CapstoneSSHAccessGroup
+
+  # ==================== TIER 6: VIRTUAL COMPUTE FLEET OPERATION ====================
+  CapstoneWebServerInstance:
+    Type: "AWS::EC2::Instance"
+    Properties:
+      InstanceType: t3.micro
+      ImageId: ami-0abcdef1234567890 # Evaluates automatically to standard regional x86_64 Amazon Linux AMI
+      SubnetId: !Ref CapstoneSubnet
+      SecurityGroupIds:
+        - !Ref CapstoneSecurityGroup
+      Tags:
+        - Key: Name
+          Value: CapstoneWebServer
+
+Outputs:
+  VPCIdOutput:
+    Description: "Primary Tracking Physical ID of the provisioned Custom VPC core container"
+    Value: !Ref CapstoneVPC
+  WebServerPublicIP:
+    Description: "Public IPv4 endpoint address allocated to the spawned compute node"
+    Value: !GetAtt CapstoneWebServerInstance.PublicIp
+

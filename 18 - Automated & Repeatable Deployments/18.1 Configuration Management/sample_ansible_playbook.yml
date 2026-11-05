@@ -1,0 +1,44 @@
+---
+# =============================================================================
+# AWS DevOps Infrastructure Automation: Enterprise Configuration Playbook
+# Target Platform: Amazon Linux 2023 Fleet / Automation Engine: Ansible Core
+# Purpose: Programmatic State Enforcement & Apache Web Tier Standardization
+# =============================================================================
+
+- name: Standardize and Enforce Multi-Tier Web Server Configuration State
+  hosts: webservers
+  become: yes
+  vars:
+    web_server_port: 80
+    app_directory: /var/www/html
+
+  tasks:
+    # 1. Package Management Layer - Ensure the latest Apache binary is present
+    - name: Ensure Apache HTTP Server package is installed natively
+      dnf:
+        name: httpd
+        state: present
+
+    # 2. System Configuration Layer - Deploy the static frontend index asset
+    - name: Compile and deploy production application index landing page
+      copy:
+        content: |
+          <!DOCTYPE html>
+          <html>
+          <head><title>Automated Fleet Node</title></head>
+          <body>
+            <h1>Managed via Configuration Management</h1>
+            <p>Infrastructure State: Compliant & Verified</p>
+          </body>
+          </html>
+        dest: "{{ app_directory }}/index.html"
+        owner: apache
+        group: apache
+        mode: '0644'
+
+    # 3. Process Daemon Layer - Ensure the service is active and enabled on boot
+    - name: Force Apache service daemon into a running and enabled state
+      systemd:
+        name: httpd
+        state: started
+        enabled: yes

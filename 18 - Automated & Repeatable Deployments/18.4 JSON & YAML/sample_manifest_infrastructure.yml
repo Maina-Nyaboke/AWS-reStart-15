@@ -1,0 +1,18 @@
+---
+AWSTemplateFormatVersion: "2010-09-09"
+Description: "Production Web Server Infrastructure Matrix Blueprint"
+Resources:
+  WebServerInstance:
+    Type: "AWS::EC2::Instance"
+    Properties:
+      ImageId: "ami-0abcdef1234567890"
+      InstanceType: "t3.micro"
+      SecurityGroups:
+        - "sg-production-frontend-shield"
+        - "sg-devops-admin-shield"
+      Tags:
+        - Key: "Environment"
+          Value: "Production"
+        - Key: "Project"
+          Value: "EnterpriseERP"
+...

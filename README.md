@@ -193,7 +193,16 @@ Welcome to my cloud computing and engineering showcase! This repository document
 
 
 
-
+### 🚀 Module 18: Automated & Repeatable Deployments
+*Status: Completed*
+* ⚙️ [18.1 Configuration Management](./18%20-%20Automated%20&%20Repeatable%20Deployments/18.1%20Configuration%20Management/) - Mastering automated infrastructure staging, standardizing declarativeDesired-State configurations via Ansible YAML manifests, and evaluating immutable server lifecycle deployment strategies.
+* 🎛️ [18.2 AMI Building Strategy](./18%20-%20Automated%20&%20Repeatable%20Deployments/18.2%20AMI%20Building%20Strategy/) - Architecting immutable infrastructure platforms, developing automated machine image (AMI) deployment pipelines, and mastering cross-region blueprint replication and Microsoft Windows Sysprep generalization phases.
+* 🗺️ [18.3 Launch Templates & IaC](./18%20-%20Automated%20&%20Repeatable%20Deployments/18.3%20Launch%20Templates%20&%20IaC/) - Designing multi-version compute templates, standardizing declarative resource provisioning via JSON manifests, and analyzing the structural boundaries of Infrastructure-as-Code (IaC) deployment lifecycles.
+* 🗺️ [18.4 JSON & YAML](./18%20-%20Automated%20&%20Repeatable%20Deployments/18.4%20JSON%20&%20YAML/) - Mastering data serialization architectures, comparing JSON bracket-delimited objects with YAML whitespace-indented sequences, and standardizing multi-syntax configuration manifests.
+* 🎮 [18.5 AWS CloudFormation](./18%20-%20Automated%20&%20Repeatable%20Deployments/18.5%20AWS%20CloudFormation/) - Mastering automated stack orchestration, designing dynamic templates using intrinsic functions (`!Ref`, `!GetAtt`) and pseudo parameters, and standardizing `AWS::CloudFormation::Init` state enforcement matrices [1.1, 8].
+* 🏁 [18.6 Automation with CloudFormation](./18%20-%20Automated%20&%20Repeatable%20Deployments/18.6%20Automation%20with%20CloudFormation/) - Provisioning custom multi-tier stacks, injecting real-time SSM Parameter Store AMI lookups, executing delta stack updates via console Change Sets, and managing automated infrastructure lifecycle teardowns [1.1, 8].
+* 🛡️ [18.7 Troubleshooting CloudFormation](./18%20-%20Automated%20&%20Repeatable%20Deployments/18.7%20Troubleshooting%20CloudFormation/) - Diagnosing template bootstrapping failures via OS cloud-init logs, configuring non-rollback error traps (`DO_NOTHING`), evaluating firewall configuration drift, and executing decoupled multi-tier stack destitutions using resource retain parameters.
+* 🏁 [18.8 Capstone Lab Challenge](./18%20-%20Automated%20&%20Repeatable%20Deployments/18.8%20Capstone%20Lab%20Challenge/) - Architecting full-stack custom VPC networks from scratch via declarative YAML CloudFormation manifests, binding edge Internet Gateways, standardizing global Port 22 SSH firewall perimeters, and deploying elastic t3.micro compute nodes.
 
 
 ---
